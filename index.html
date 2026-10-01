@@ -5,30 +5,63 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Nexus OS — Public Showcase</title>
 <style>
-body{max-width:860px;margin:48px auto;padding:0 22px;font-family:system-ui,-apple-system,sans-serif;line-height:1.6;color:#1f1f1f}
-h1{font-size:2.4rem;margin-bottom:.2rem} h2{margin-top:2rem}
-code,pre{background:#f4f4f2;border-radius:8px} pre{padding:16px;overflow:auto}
-.badge{display:inline-block;padding:5px 9px;border:1px solid #bbb;border-radius:999px;font-size:.85rem}
+:root{--ink:#1f1f1f;--muted:#666;--line:#ddd;--soft:#f5f5f2}
+body{max-width:960px;margin:48px auto;padding:0 22px;font-family:system-ui,-apple-system,sans-serif;line-height:1.6;color:var(--ink)}
+h1{font-size:2.6rem;margin:.35rem 0 .5rem} h2{margin-top:2.2rem} h3{margin:.2rem 0 .4rem}
+p{margin:.55rem 0}.lead{font-size:1.15rem;max-width:800px}.muted{color:var(--muted)}
+code,pre{background:var(--soft);border-radius:10px} pre{padding:18px;overflow:auto}
+.badge{display:inline-block;padding:5px 10px;border:1px solid #bbb;border-radius:999px;font-size:.84rem}
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:1rem}
+.card{border:1px solid var(--line);border-radius:14px;padding:18px;background:#fff}
+.card p{font-size:.96rem}
 a{color:inherit}
+hr{border:0;border-top:1px solid var(--line);margin:2.2rem 0}
+@media(max-width:760px){.grid{grid-template-columns:1fr}h1{font-size:2.15rem}}
 </style>
 </head>
 <body>
-<span class="badge">PUBLIC_SAFE_SHOWCASE_V0.1 · 2026-10-02</span>
+<span class="badge">PUBLIC_SAFE_SHOWCASE_V0.2 · 2026-10-02</span>
 <h1>Nexus OS</h1>
-<p>Architecture humain/IA pour transformer une matière projet dispersée en travail structuré, vérifiable et mémorisable.</p>
+<p class="lead">Architecture humain/IA pour transformer une matière projet dispersée en travail structuré, vérifiable et mémorisable.</p>
+<p class="muted">Showcase public destiné aux recruteurs, partenaires et financeurs — sans exposition du runtime ni des briques techniques privées.</p>
+
 <pre>project material
 → qualification &amp; provenance
 → context &amp; routing
 → human gates
 → QA &amp; restitution
 → governed memory</pre>
+
+<h2>Pourquoi regarder Nexus OS ?</h2>
+<div class="grid">
+  <section class="card">
+    <h3>Recruteur</h3>
+    <p>Voir des compétences concrètes en architecture de systèmes humain/IA, structuration de données et documents, workflows agentiques, QA, mémoire projet et prototypage.</p>
+  </section>
+  <section class="card">
+    <h3>Partenaire</h3>
+    <p>Comprendre comment Nexus peut être adapté à un projet réel : qualification de matière, provenance, validation humaine, restitution et capitalisation.</p>
+  </section>
+  <section class="card">
+    <h3>Financeur</h3>
+    <p>Évaluer une trajectoire R&amp;D documentée : composants alpha, tests instrumentés, preuves d’usage, limites explicites et prochaines gates de validation.</p>
+  </section>
+</div>
+
 <h2>Ce que le showcase montre</h2>
 <p>Architecture de haut niveau, discipline de preuve, mémoire de projet, orchestration de workflows et sélection de preuves d’usage.</p>
+
 <h2>Quelques preuves d’usage</h2>
 <p>31/31 tests CTX-1A.1 validés sur une séquence instrumentée ; 34/34 contrôles de harness validés sur une autre ; inventaire documentaire de 14 542 fichiers (15,37 Go).</p>
-<p>Ces éléments sont des signaux d’implémentation et d’usage, pas une revendication de supériorité commerciale.</p>
+<p>Ces éléments sont des signaux d’implémentation et d’usage. Ils ne constituent pas une revendication de supériorité commerciale ni une preuve d’impact économique causal.</p>
+
+<h2>Maturité actuelle</h2>
+<p>Nexus OS est une architecture R&amp;D / produit en développement. Certaines briques disposent d’implémentations alpha exécutables et de harness de test dans des dépôts privés ; d’autres restent partielles, spécifiées ou en cours d’évaluation comparative.</p>
+
 <h2>Frontière</h2>
 <p>Le runtime, les snapshots de moteurs, les packages partenaires, les traces privées et les éléments permettant de reconstruire le système ne sont pas publiés ici.</p>
+
+<hr>
 <h2>Écosystème</h2>
 <p><a href="https://lakle.fr">La KLE</a> · <a href="https://enquetesduvivant.lakle.fr">Enquêtes du Vivant</a></p>
 </body>

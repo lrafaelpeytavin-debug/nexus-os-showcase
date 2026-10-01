@@ -2,13 +2,24 @@
 
 Status: `PUBLIC_SAFE_SHOWCASE_V0.1`  
 Date: 2026-10-02  
-Purpose: recruiter / partner discovery / portfolio
+Purpose: recruiter / partner / funder discovery
 
 > **Public showcase ≠ open-source release.**
 
-This repository is a **sanitized public showcase** of Nexus OS. It presents the problem addressed, the architecture at a high level, selected proof-by-use signals, and the current maturity of the work.
+This repository is a **sanitized public showcase** of Nexus OS for three external audiences: **recruiters, partners and funders**. It presents the problem addressed, the architecture at a high level, selected proof-by-use signals, and the current maturity of the work.
 
 It is **not** the Nexus runtime, the private technical kit, or the partner deployment package.
+
+## Who this showcase is for
+
+### Recruiters
+A compact view of concrete capabilities in human/AI system design, structured workflows, provenance, QA, project memory and prototyping.
+
+### Partners
+A high-level view of how Nexus can support a bounded project workflow without exposing the private runtime or partner deployment package.
+
+### Funders
+A reviewable R&D trajectory: alpha components, instrumented tests, proof-by-use signals, explicit limitations and next validation gates.
 
 ## What Nexus OS is
 

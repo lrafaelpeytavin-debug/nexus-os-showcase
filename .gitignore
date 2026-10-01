@@ -1,0 +1,48 @@
+# Secrets / environment
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Dependencies / build artefacts
+node_modules/
+.next/
+dist/
+build/
+out/
+coverage/
+.vercel/
+
+# Local / temporary files
+tmp/
+temp/
+.cache/
+*.log
+*.tmp
+*.swp
+*.swo
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Archives / exports
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# Private working material
+private/
+internal/
+work/
+scratch/
+secrets/
+local-data/
+partner-data/
+runtime-data/

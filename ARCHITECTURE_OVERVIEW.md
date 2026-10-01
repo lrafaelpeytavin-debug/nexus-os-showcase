@@ -45,6 +45,32 @@ The architecture explores local and controlled runtimes when privacy, autonomy o
 ### Reuse without pretending universality
 Capabilities are reused across contexts, but each terrain keeps its own authority and constraints.
 
+### Unknown objects must become intelligible
+When a project, method or internal name is unfamiliar to the reader, the representation should explain its **category and concrete function before or with the name**.
+
+Public communication follows the rule:
+
+```text
+recipient need
+→ communication intent
+→ object category
+→ concrete function
+→ relevant relations
+→ maturity / evidence
+→ internal name if useful
+```
+
+An internally important object can be omitted when it does not help the intended reader understand or act.
+
+## Relationship to public KLE surfaces
+
+- **La KLE** is the broader research-action and cooperation ecosystem.
+- **Souveraineté en Action** is an experimentation and popular-education field.
+- **Enquêtes du Vivant** is a public pedagogical inquiry interface.
+- **Nexus OS** is the memory, provenance, derivation, QA and human/AI orchestration layer developed across these kinds of contexts.
+
+The relationship is functional, not a claim that Nexus is the production backend of every public surface.
+
 ## What is deliberately not published here
 
 The private Nexus repositories contain more detailed contracts, engine snapshots, scripts, tests and deployment logic. Those materials are not part of the public showcase.

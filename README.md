@@ -1,6 +1,6 @@
 # Nexus OS — Public Showcase
 
-Status: `PUBLIC_SAFE_SHOWCASE_V0.1`  
+Status: `PUBLIC_SAFE_SHOWCASE_V0.3`  
 Date: 2026-10-02  
 Purpose: recruiter / partner / funder discovery
 
@@ -36,6 +36,33 @@ project material
 
 The aim is not to build an "omniscient AI". The aim is to preserve context, provenance, uncertainty, decisions and memory while using AI and automation where they are useful.
 
+## A concrete public-safe workflow
+
+A typical bounded workflow can look like this:
+
+```text
+raw workshop / project material
+→ identify source and context
+→ separate observation, interpretation and hypothesis
+→ select only the relevant capability for the task
+→ produce a candidate synthesis or deliverable
+→ human review and correction
+→ publish or circulate the appropriate derivative
+→ preserve lineage, decision and reusable learning
+```
+
+The point is not to automate every step. The point is to make the transitions inspectable, revisable and reusable.
+
+## How Nexus connects to public KLE surfaces
+
+These projects are related, but they are not interchangeable:
+
+- **La KLE** — https://lakle.fr — the broader research-action ecosystem and frame in which cooperation, pedagogy and project methods are developed.
+- **Souveraineté en Action (SA)** — https://sa.lakle.fr — a field of experimentation and popular education where collective practices, governance and situated learning are tested.
+- **Enquêtes du Vivant** — https://enquetesduvivant.lakle.fr — a public pedagogical inquiry interface for exploring collective situations and structuring learning.
+
+Nexus OS is the **memory, provenance, derivation, QA and human/AI orchestration layer** developed across these kinds of contexts. This does **not** mean that Nexus is the production backend of every public surface or that every feature of those projects is powered by Nexus.
+
 ## What this showcase demonstrates
 
 - system design for human/AI workflows;
@@ -68,9 +95,20 @@ Some components have executable alpha implementations and test harnesses in priv
 
 The public showcase intentionally avoids exposing code or contracts that would materially ease reconstruction of the private system.
 
+## Next validation gates
+
+Current public-safe priorities:
+
+1. test whether a zero-context reader can explain what Nexus is, what it does, and what is still unproven;
+2. add one or two anonymised visual examples only after disclosure review;
+3. document an additional heterogeneous workflow with explicit before/after and human-correction traces;
+4. measure human correction, cycle time and reconstruction effort against a credible baseline where possible;
+5. collect recruiter / partner / funder feedback without treating positive reactions as product validation.
+
 ## Public projects
 
 - La KLE: https://lakle.fr
+- Souveraineté en Action: https://sa.lakle.fr
 - Enquêtes du Vivant: https://enquetesduvivant.lakle.fr
 - GitHub profile: https://github.com/lrafaelpeytavin-debug
 

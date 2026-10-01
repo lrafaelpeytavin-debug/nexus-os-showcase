@@ -35,16 +35,34 @@ The architecture has been exercised across several kinds of work:
 
 Cross-domain reuse is an observed usage signal. A comparative performance advantage is still under evaluation.
 
-## 4. Public product interface
+## 4. Public-facing contexts
 
-Enquêtes du Vivant was launched in public beta on 20 May 2026.
+Three public KLE surfaces help make the surrounding work visible:
 
-It provides a practical interface for turning lived collective situations into structured questions, pedagogical resources, facilitated sessions and research-action traces.
+- **La KLE** — https://lakle.fr — research-action, pedagogy and cooperation ecosystem;
+- **Souveraineté en Action** — https://sa.lakle.fr — experimentation and popular-education field;
+- **Enquêtes du Vivant** — https://enquetesduvivant.lakle.fr — public pedagogical inquiry interface, with a public beta launched on 20 May 2026.
 
-Public link:  
-https://enquetesduvivant.lakle.fr
+Nexus-related documentary, research-action, memory and derivation workflows have been developed across these kinds of contexts. This is not a claim that Nexus is the production backend of every public site.
 
-## 5. Epistemic limits
+## 5. What a bounded workflow looks like
+
+Public-safe example:
+
+```text
+raw project or workshop material
+→ source/context qualification
+→ observation vs interpretation vs hypothesis
+→ relevant workflow/capability selection
+→ candidate synthesis or deliverable
+→ human correction
+→ audience-appropriate derivative
+→ lineage and learning preserved
+```
+
+This illustrates the intended operating discipline without publishing private engine code or technical contracts.
+
+## 6. Epistemic limits
 
 The current evidence supports statements such as:
 
@@ -58,5 +76,7 @@ The current evidence does **not** support claims such as:
 - Nexus has proven market superiority;
 - Nexus has proven causal economic impact;
 - every conceptual module is fully executable.
+
+Positive feedback from a recruiter, partner, funder or external model is treated as a **reception signal**, not as proof of product validity.
 
 The project explicitly separates implementation evidence, usage evidence, hypotheses and future claims.

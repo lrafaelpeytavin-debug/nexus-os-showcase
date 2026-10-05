@@ -1,10 +1,10 @@
 # Showcase Manifest
 
-This repository was prepared on 2026-10-02 after a review of Nexus sharing boundaries.
+This repository was prepared on 2026-10-02 after a review of Nexus sharing boundaries and received a public-positioning maintenance pass on 2026-10-05.
 
 Classification:
 
-`PUBLIC_SAFE_SHOWCASE_V0.1`
+`PUBLIC_SAFE_SHOWCASE_V0.3.1`
 
 Rule:
 

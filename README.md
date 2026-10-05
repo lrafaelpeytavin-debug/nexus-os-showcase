@@ -1,7 +1,7 @@
 # Nexus OS — Public Showcase
 
-Status: `PUBLIC_SAFE_SHOWCASE_V0.3`  
-Date: 2026-10-02  
+Status: `PUBLIC_SAFE_SHOWCASE_V0.3.1`  
+Date: 2026-10-05  
 Purpose: recruiter / partner / funder discovery
 
 > **Public showcase ≠ open-source release.**
@@ -23,7 +23,7 @@ A reviewable R&D trajectory: alpha components, instrumented tests, proof-by-use 
 
 ## What Nexus OS is
 
-Nexus OS is a human-gated architecture for turning messy project material into structured, traceable work.
+Nexus OS is a human-gated architecture for turning messy project material into structured, traceable and reusable work across AI-assisted workflows.
 
 ```text
 project material
@@ -34,7 +34,7 @@ project material
 → governed memory and reuse
 ```
 
-The aim is not to build an "omniscient AI". The aim is to preserve context, provenance, uncertainty, decisions and memory while using AI and automation where they are useful.
+The aim is to preserve context, provenance, uncertainty, decisions and memory while using AI and automation where they are useful. Local-first infrastructure is one deployment strategy within this architecture, especially when privacy, autonomy or cost justify it.
 
 ## A concrete public-safe workflow
 

@@ -1,77 +1,117 @@
 # Nexus OS — Public Showcase
 
-Status: `PUBLIC_SAFE_SHOWCASE_V0.3.1`  
+Status: `PUBLIC_SAFE_SHOWCASE_V0.4`  
 Date: 2026-10-05  
 Purpose: recruiter / partner / funder discovery
 
 > **Public showcase ≠ open-source release.**
 
-This repository is a **sanitized public showcase** of Nexus OS for three external audiences: **recruiters, partners and funders**. It presents the problem addressed, the architecture at a high level, selected proof-by-use signals, and the current maturity of the work.
-
-It is **not** the Nexus runtime, the private technical kit, or the partner deployment package.
-
-## Who this showcase is for
-
-### Recruiters
-A compact view of concrete capabilities in human/AI system design, structured workflows, provenance, QA, project memory and prototyping.
-
-### Partners
-A high-level view of how Nexus can support a bounded project workflow without exposing the private runtime or partner deployment package.
-
-### Funders
-A reviewable R&D trajectory: alpha components, instrumented tests, proof-by-use signals, explicit limitations and next validation gates.
+This repository is a **sanitized public showcase** of Nexus OS. It is designed for recruiters, partners and funders who need to understand the architecture, the current evidence and the R&D trajectory without access to the private runtime or deployment packages.
 
 ## What Nexus OS is
 
-Nexus OS is a human-gated architecture for turning messy project material into structured, traceable and reusable work across AI-assisted workflows.
+Nexus OS is a **human-gated, model-agnostic architecture** for turning heterogeneous project material into structured, traceable and reusable work.
+
+Its role is to govern the transitions between sources, context, capabilities, AI execution, human validation, deliverables, memory and follow-up.
 
 ```text
-project material
-→ qualification and provenance
+sources and project material
+→ qualification, provenance and authority
 → context and routing
-→ human-gated analysis / action
-→ QA and restitution
-→ governed memory and reuse
+→ core capability or governed extension
+→ AI / tool execution
+→ human gate and QA
+→ usable derivative
+→ governed memory
+→ action or follow-up
 ```
 
-The aim is to preserve context, provenance, uncertainty, decisions and memory while using AI and automation where they are useful. Local-first infrastructure is one deployment strategy within this architecture, especially when privacy, autonomy or cost justify it.
+A language model is therefore an execution resource inside the architecture. It does not become the source of truth, the project authority or the memory policy.
+
+## What changed in V0.4
+
+V0.4 makes several architectural distinctions explicit.
+
+### Stable capabilities and governed extensions
+
+Nexus separates reusable core capabilities from methods or project-specific extensions.
+
+The core covers functions such as provenance, context routing, memory, derivation, QA and human validation. Domain methods, partner workflows or occupational practices can be attached as governed extensions with an explicit scope, version, source, authority and validation status.
+
+This allows reuse across projects while preserving the rules of each terrain.
+
+### Frontier models and local execution
+
+Nexus can use frontier models when their capabilities are useful and controlled local execution when privacy, autonomy, cost or infrastructure constraints justify it.
+
+The architecture is not defined by a particular model provider or deployment mode. Governance, provenance and human authority remain stable when the execution resource changes.
+
+### Source, storage and system memory are different things
+
+A document can be stored in one place while another location remains authoritative for the project. A research-action derivative can inform Nexus without automatically becoming canonical project knowledge.
+
+This separation helps prevent a copied document, a generated synthesis or an imported method from silently acquiring more authority than its source supports.
+
+### Capability routing instead of universal automation
+
+The system selects a bounded capability for a task rather than treating every available method, model or tool as universally applicable.
+
+That routing can include native capabilities, governed method packs, project overlays, adapters and external tools. Their internal contracts remain private; the public principle is documented in [CAPABILITY_AND_EXECUTION_MODEL.md](CAPABILITY_AND_EXECUTION_MODEL.md).
 
 ## A concrete public-safe workflow
 
-A typical bounded workflow can look like this:
-
 ```text
-raw workshop / project material
-→ identify source and context
+raw workshop, document or project material
+→ identify source, context and authority
 → separate observation, interpretation and hypothesis
-→ select only the relevant capability for the task
+→ select the relevant capability or governed extension
+→ execute with an appropriate model or tool
 → produce a candidate synthesis or deliverable
 → human review and correction
 → publish or circulate the appropriate derivative
 → preserve lineage, decision and reusable learning
+→ trigger the next action when relevant
 ```
 
-The point is not to automate every step. The point is to make the transitions inspectable, revisable and reusable.
+The objective is to make these transitions inspectable, revisable and reconstructible over time.
+
+## More than retrieval
+
+Retrieval is useful, but Nexus is designed around a longer chain:
+
+```text
+information
+→ provenance
+→ epistemic status
+→ relationships
+→ authority
+→ derivation
+→ action
+→ trace
+```
+
+The R&D question is whether governing that chain improves continuity, correction, reconstruction and accountability compared with less structured AI-assisted work.
+
+## Who this showcase is for
+
+### Recruiters
+A compact view of concrete capabilities in human/AI system design, structured workflows, provenance, QA, project memory, model routing and prototyping.
+
+### Partners
+A high-level view of how Nexus can support a bounded project workflow while keeping source authority, methods, validation and deployment constraints explicit.
+
+### Funders
+A reviewable R&D trajectory combining alpha components, instrumented tests, proof-by-use signals, architectural contracts, explicit limitations and comparative validation gates.
 
 ## How Nexus connects to public KLE surfaces
 
-These projects are related, but they are not interchangeable:
+These projects are related through their functions:
 
 - **La KLE** — https://lakle.fr — the broader research-action ecosystem and frame in which cooperation, pedagogy and project methods are developed.
 - **Souveraineté en Action (SA)** — https://sa.lakle.fr — a field of experimentation and popular education where collective practices, governance and situated learning are tested.
 - **Enquêtes du Vivant** — https://enquetesduvivant.lakle.fr — a public pedagogical inquiry interface for exploring collective situations and structuring learning.
 
-Nexus OS is the **memory, provenance, derivation, QA and human/AI orchestration layer** developed across these kinds of contexts. This does **not** mean that Nexus is the production backend of every public surface or that every feature of those projects is powered by Nexus.
-
-## What this showcase demonstrates
-
-- system design for human/AI workflows;
-- provenance and evidence discipline;
-- project-memory and versioning logic;
-- agent/workflow routing;
-- QA and human validation gates;
-- research-action and proof-by-use instrumentation;
-- local-first and partner-adaptable architecture.
+Nexus OS is the **memory, provenance, derivation, QA and human/AI orchestration layer** developed across these kinds of contexts. Each public project retains its own function and authority.
 
 ## Selected proof-of-use signals
 
@@ -79,9 +119,11 @@ Public-safe snapshot from 2026:
 
 - 31/31 CTX-1A.1 tests validated in one instrumented Nexus sequence;
 - 34/34 harness controls validated in another evaluation sequence;
-- documentary inventory structured across 14,542 files (15.37 GB) for reading, analysis and capitalisation workflows;
-- multiple applied contexts across pedagogy, collective intelligence, project structuring and research-action;
+- 14,542 files / 15.37 GB structured as a heterogeneous documentary corpus used for retrieval, provenance, versioning, lineage and capitalisation workflows;
+- repeated use across pedagogy, collective intelligence, project structuring, applications and research-action;
 - Enquêtes du Vivant beta launched on 20 May 2026 as a practical research-action interface.
+
+The corpus size is not presented as a storage performance metric. The relevant challenge is keeping evolving material retrievable, attributable and reconstructible across projects, formats and derivatives.
 
 These are **implementation and usage signals**, not claims of market superiority or causal business impact.
 
@@ -91,19 +133,22 @@ See [PROOF_OF_USE.md](PROOF_OF_USE.md).
 
 Nexus is an evolving R&D / product architecture.
 
-Some components have executable alpha implementations and test harnesses in private repositories. Other components remain partial, specified, or under comparative evaluation.
+Some components have executable alpha implementations and test harnesses in private repositories. Provenance, routing, memory, human gates and documentary workflows have been exercised in real work. The packaging of reusable capabilities and external method packs is an active R&D area rather than a finished plug-in marketplace.
 
-The public showcase intentionally avoids exposing code or contracts that would materially ease reconstruction of the private system.
+The public showcase intentionally avoids exposing code, schemas and contracts that would materially ease reconstruction of the private system.
+
+See [ARCHITECTURE_OVERVIEW.md](ARCHITECTURE_OVERVIEW.md) and [CAPABILITY_AND_EXECUTION_MODEL.md](CAPABILITY_AND_EXECUTION_MODEL.md).
 
 ## Next validation gates
 
 Current public-safe priorities:
 
-1. test whether a zero-context reader can explain what Nexus is, what it does, and what is still unproven;
-2. add one or two anonymised visual examples only after disclosure review;
-3. document an additional heterogeneous workflow with explicit before/after and human-correction traces;
-4. measure human correction, cycle time and reconstruction effort against a credible baseline where possible;
-5. collect recruiter / partner / funder feedback without treating positive reactions as product validation.
+1. compare a governed Nexus workflow with a credible baseline such as a frontier model working from a less structured project folder;
+2. measure human correction effort, cycle time, duplicate work, provenance loss and reconstruction effort where possible;
+3. test the loading, replacement and removal of governed method or project extensions without corrupting core provenance and memory rules;
+4. document an additional heterogeneous workflow with explicit before/after and human-correction traces;
+5. test whether a zero-context reader can explain what Nexus does, where human authority sits and what remains unproven;
+6. add anonymised visual examples only after disclosure review.
 
 ## Public projects
 
@@ -114,15 +159,7 @@ Current public-safe priorities:
 
 ## Boundaries
 
-This repository intentionally excludes:
-
-- engine source snapshots;
-- private runtime internals;
-- partner deployment packages;
-- private KLE/Nexus mappings;
-- partner traces and private corpora;
-- sensitive research-action material;
-- credentials, tokens and operational deployment know-how.
+This repository excludes runtime internals, engine snapshots, reconstructive capability contracts, partner packages, private mappings, sensitive traces, private corpora, credentials and operational deployment know-how.
 
 See [SECURITY_AND_BOUNDARIES.md](SECURITY_AND_BOUNDARIES.md).
 

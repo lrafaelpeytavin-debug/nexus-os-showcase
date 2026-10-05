@@ -1,7 +1,7 @@
 # Selected Proof-of-Use — Public-safe snapshot
 
 Status: public-safe summary  
-Date: 2026-10-02
+Date: 2026-10-05
 
 This page presents selected evidence that can be shared externally without exposing the private Nexus technical packages.
 
@@ -16,12 +16,14 @@ These numbers show that bounded test sequences were executed successfully. They 
 
 ## 2. Documentary-scale work
 
-A Nexus/KLE documentary workflow has been used to inventory and structure a corpus of:
+A Nexus/KLE documentary workflow has been used to inventory and structure a heterogeneous working corpus of:
 
 - `14,542 files`
 - `15.37 GB`
 
-The practical problem is not storage alone. It is maintaining retrieval, provenance, versioning, lineage and reconstructibility across evolving project material.
+The volume is not presented as a performance metric in itself. The proof point is the documentary complexity: keeping evolving material retrievable, attributable and reconstructible across multiple project contexts and file types.
+
+The workflow is used to support retrieval, provenance, versioning, lineage and capitalisation over time, so that later outputs and decisions can remain connected to the material from which they were derived.
 
 ## 3. Cross-domain application
 

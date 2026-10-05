@@ -1,5 +1,5 @@
-# Short wording for an application email
+# Short wording for an application or partner email
 
-> Pour illustrer mes travaux actuels autour de l’IA, de la structuration de données et de la mémoire de projet, j’ai préparé un showcase public de Nexus OS. Il présente l’architecture, quelques preuves d’usage et ses limites actuelles, sans exposer le runtime ni les briques techniques privées : https://github.com/lrafaelpeytavin-debug/nexus-os-showcase
+> Pour illustrer mes travaux actuels autour de l’IA, de la gouvernance de l’information et de la mémoire de projet, j’ai préparé un showcase public de Nexus OS. La V0.4 présente l’architecture humain/IA, le routage de capacités, l’articulation entre modèles frontière et exécution locale, quelques preuves d’usage et les limites actuelles du projet, sans exposer le runtime ni les briques techniques privées : https://github.com/lrafaelpeytavin-debug/nexus-os-showcase
 
-Do not use the private Nexus technical-kit or Partner-OS repository as a recruiter-facing link.
+Use the public showcase for recruiter, partner and funder discovery. Keep the private Nexus technical kit and partner deployment repositories outside public-facing communication.

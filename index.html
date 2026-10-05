@@ -3,71 +3,97 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Nexus OS — Public Showcase</title>
+<title>Nexus OS — Public Showcase V0.4</title>
 <style>
 :root{--ink:#1f1f1f;--muted:#666;--line:#ddd;--soft:#f5f5f2}
 body{max-width:1040px;margin:48px auto;padding:0 22px;font-family:system-ui,-apple-system,sans-serif;line-height:1.6;color:var(--ink)}
-h1{font-size:2.7rem;margin:.35rem 0 .5rem} h2{margin-top:2.3rem} h3{margin:.2rem 0 .4rem}
-p{margin:.55rem 0}.lead{font-size:1.18rem;max-width:840px}.muted{color:var(--muted)}
-code,pre{background:var(--soft);border-radius:10px} pre{padding:18px;overflow:auto}
+h1{font-size:2.7rem;margin:.35rem 0 .5rem}h2{margin-top:2.3rem}h3{margin:.2rem 0 .4rem}
+p{margin:.55rem 0}.lead{font-size:1.18rem;max-width:880px}.muted{color:var(--muted)}
+code,pre{background:var(--soft);border-radius:10px}pre{padding:18px;overflow:auto}
 .badge{display:inline-block;padding:5px 10px;border:1px solid #bbb;border-radius:999px;font-size:.84rem}
 .grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:1rem}
 .grid4{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-top:1rem}
-.card{border:1px solid var(--line);border-radius:14px;padding:18px;background:#fff}
-.card p{font-size:.96rem}
+.grid2{display:grid;grid-template-columns:repeat(2,1fr);gap:14px;margin-top:1rem}
+.card{border:1px solid var(--line);border-radius:14px;padding:18px;background:#fff}.card p{font-size:.96rem}
 .flow{display:flex;gap:10px;align-items:stretch;flex-wrap:wrap;margin:1rem 0}
-.step{flex:1 1 125px;border:1px solid var(--line);border-radius:12px;padding:12px;background:var(--soft);font-size:.9rem}
+.step{flex:1 1 120px;border:1px solid var(--line);border-radius:12px;padding:12px;background:var(--soft);font-size:.9rem}
 .arrow{align-self:center;color:var(--muted)}
-a{color:inherit}
-hr{border:0;border-top:1px solid var(--line);margin:2.3rem 0}
-@media(max-width:820px){.grid,.grid4{grid-template-columns:1fr}.arrow{display:none}h1{font-size:2.2rem}}
+.note{border-left:3px solid #aaa;padding:4px 0 4px 14px;margin:1rem 0}
+a{color:inherit}hr{border:0;border-top:1px solid var(--line);margin:2.3rem 0}
+@media(max-width:820px){.grid,.grid4,.grid2{grid-template-columns:1fr}.arrow{display:none}h1{font-size:2.2rem}}
 </style>
 </head>
 <body>
-<span class="badge">PUBLIC_SAFE_SHOWCASE_V0.3.1 · 2026-10-05</span>
+<span class="badge">PUBLIC_SAFE_SHOWCASE_V0.4 · 2026-10-05</span>
 <h1>Nexus OS</h1>
-<p class="lead">Architecture humain/IA pour transformer une matière projet dispersée en travail structuré, vérifiable, réutilisable et mémorisable.</p>
-<p class="muted">Showcase public destiné aux recruteurs, partenaires et financeurs — sans exposition du runtime ni des briques techniques privées. Le local-first est une stratégie de déploiement parmi d’autres, pas la définition de Nexus OS.</p>
+<p class="lead">Architecture humain/IA pour gouverner la transformation d’une matière projet hétérogène en travail structuré, traçable, réutilisable et reconstructible.</p>
+<p class="muted">Nexus se situe au-dessus des modèles et outils : il organise la relation entre sources, autorité, capacités, exécution, validation humaine, dérivations et mémoire.</p>
 
-<div class="flow" aria-label="Architecture Nexus">
-  <div class="step"><strong>1. Matière</strong><br>documents, notes, échanges</div>
+<div class="flow" aria-label="Chaîne Nexus">
+  <div class="step"><strong>1. Sources</strong><br>matière, origine, autorité</div>
   <div class="arrow">→</div>
-  <div class="step"><strong>2. Qualification</strong><br>source, contexte, preuve</div>
+  <div class="step"><strong>2. Qualification</strong><br>contexte, preuve, statut</div>
   <div class="arrow">→</div>
-  <div class="step"><strong>3. Routage</strong><br>capacité pertinente</div>
+  <div class="step"><strong>3. Capacité</strong><br>cœur ou extension gouvernée</div>
   <div class="arrow">→</div>
-  <div class="step"><strong>4. Gate humaine</strong><br>validation, correction</div>
+  <div class="step"><strong>4. Exécution</strong><br>modèle ou outil adapté</div>
   <div class="arrow">→</div>
-  <div class="step"><strong>5. Restitution</strong><br>livrable adapté</div>
+  <div class="step"><strong>5. Gate humaine</strong><br>QA, correction, décision</div>
   <div class="arrow">→</div>
-  <div class="step"><strong>6. Mémoire</strong><br>filiation, reprise</div>
+  <div class="step"><strong>6. Mémoire</strong><br>filiation, action, reprise</div>
+</div>
+
+<h2>Ce que V0.4 clarifie</h2>
+<div class="grid2">
+  <section class="card">
+    <h3>Cœur stable + extensions gouvernées</h3>
+    <p>Les fonctions transversales de provenance, mémoire, routage, dérivation et QA restent séparées des méthodes métier, méthodes partenaires ou overlays propres à un projet. Une extension garde son périmètre, sa source, sa version, son autorité et son statut de validation.</p>
+  </section>
+  <section class="card">
+    <h3>Modèles comme ressources d’exécution</h3>
+    <p>Un modèle frontière, un modèle local, du code déterministe ou une ressource spécialisée peuvent exécuter une capacité. Changer de ressource d’exécution ne doit pas déplacer silencieusement l’autorité du projet ou les règles de mémoire.</p>
+  </section>
+  <section class="card">
+    <h3>Autorité distincte du stockage</h3>
+    <p>Un fichier copié, une synthèse ou une trace de recherche-action peut être utile sans devenir automatiquement la source de vérité. Nexus suit l’origine, la dérivation et les conditions de réutilisation.</p>
+  </section>
+  <section class="card">
+    <h3>De l’information jusqu’à l’action</h3>
+    <p>La chaîne étudiée dépasse la recherche documentaire : information → provenance → statut épistémique → relations → autorité → dérivation → action → trace.</p>
+  </section>
 </div>
 
 <h2>Pourquoi regarder Nexus OS ?</h2>
 <div class="grid">
   <section class="card">
     <h3>Recruteur</h3>
-    <p>Voir des compétences concrètes en architecture de systèmes humain/IA, structuration de données et documents, workflows agentiques, QA, mémoire projet et prototypage.</p>
+    <p>Compétences concrètes en architecture de systèmes humain/IA, workflows agentiques, gouvernance de l’information, QA, mémoire projet, routage de capacités et prototypage.</p>
   </section>
   <section class="card">
     <h3>Partenaire</h3>
-    <p>Comprendre comment Nexus peut être adapté à un projet réel : qualification de matière, provenance, validation humaine, restitution et capitalisation.</p>
+    <p>Une architecture adaptable à un projet réel qui rend explicites les sources, les méthodes, les validations, les contraintes de déploiement et la continuité documentaire.</p>
   </section>
   <section class="card">
     <h3>Financeur</h3>
-    <p>Évaluer une trajectoire R&amp;D documentée : composants alpha, tests instrumentés, preuves d’usage, limites explicites et prochaines gates de validation.</p>
+    <p>Une trajectoire R&amp;D révisable : composants alpha, tests instrumentés, preuves d’usage, architecture d’extensions, limites et prochaines validations comparatives.</p>
   </section>
 </div>
 
-<h2>Un workflow concret, sans exposer le runtime</h2>
-<pre>matière brute d’un atelier ou d’un projet
-→ source et contexte qualifiés
-→ observation / interprétation / hypothèse séparées
-→ capacité pertinente sélectionnée
-→ synthèse ou livrable candidat
-→ correction humaine
+<h2>Un workflow public-safe</h2>
+<pre>matière brute d’un atelier, dossier ou projet
+→ source, contexte et autorité qualifiés
+→ observation / interprétation / hypothèse distinguées
+→ capacité ou extension pertinente sélectionnée
+→ exécution avec le modèle ou l’outil adapté
+→ livrable candidat
+→ correction et validation humaines
 → dérivé adapté au bon public
-→ décision, filiation et apprentissage conservés</pre>
+→ filiation, décision et apprentissage conservés
+→ action ou suivi lorsque nécessaire</pre>
+
+<h2>Frontier models, local-first et outils</h2>
+<p>Le local-first est une stratégie de déploiement utile lorsque confidentialité, autonomie, coût ou contraintes d’infrastructure le justifient. Les modèles frontière restent pertinents lorsque leurs capacités apportent davantage de valeur. Nexus cherche à conserver la gouvernance du workflow lorsque la ressource d’exécution change.</p>
+<div class="note"><strong>Principe :</strong> localisation du calcul ≠ autorité sur le projet ; sortie du modèle ≠ mémoire admise ; capacité ≠ modèle qui l’exécute.</div>
 
 <h2>Écosystème public : quatre objets, quatre fonctions</h2>
 <div class="grid4">
@@ -76,28 +102,22 @@ hr{border:0;border-top:1px solid var(--line);margin:2.3rem 0}
   <section class="card"><h3>Enquêtes du Vivant</h3><p>Interface publique d’enquête pédagogique sur des situations collectives.</p><p><a href="https://enquetesduvivant.lakle.fr">enquetesduvivant.lakle.fr</a></p></section>
   <section class="card"><h3>Nexus OS</h3><p>Couche de mémoire, provenance, dérivation, QA et orchestration humain/IA développée à travers ces contextes.</p></section>
 </div>
-<p class="muted">Ces objets sont reliés mais ne sont pas interchangeables. Nexus n’est pas présenté comme le backend de production de chaque surface publique.</p>
 
 <h2>Quelques preuves d’usage</h2>
-<p>31/31 tests CTX-1A.1 validés sur une séquence instrumentée ; 34/34 contrôles de harness validés sur une autre ; 14 542 fichiers (15,37 Go) structurés dans un corpus documentaire hétérogène utilisé pour des workflows de recherche, provenance, versioning, filiation et capitalisation.</p>
-<p>Le volume de stockage n’est pas présenté comme une performance en soi. L’enjeu éprouvé est de maintenir une matière projet évolutive retrouvable, attribuable et reconstructible dans le temps. Ces éléments restent des signaux d’implémentation et d’usage, pas une preuve de supériorité commerciale ou d’impact économique causal.</p>
+<p><strong>31/31</strong> tests CTX-1A.1 validés sur une séquence instrumentée ; <strong>34/34</strong> contrôles de harness validés sur une autre ; <strong>14 542 fichiers / 15,37 Go</strong> structurés dans un corpus documentaire hétérogène utilisé pour recherche, provenance, versioning, filiation et capitalisation.</p>
+<p>Le volume de stockage sert ici à caractériser un terrain documentaire réel. L’enjeu éprouvé est la capacité à maintenir une matière projet évolutive retrouvable, attribuable et reconstructible dans le temps.</p>
 
-<h2>Maturité actuelle</h2>
-<p>Nexus OS est une architecture R&amp;D / produit en développement. Certaines briques disposent d’implémentations alpha exécutables et de harness de test dans des dépôts privés ; d’autres restent partielles, spécifiées ou en cours d’évaluation comparative.</p>
+<h2>Ce qui est éprouvé, ce qui reste à tester</h2>
+<p>Des composants alpha, des harnesses et des workflows documentaires sont exécutables ou utilisés en travail réel. L’empaquetage de capacités réutilisables, l’interopérabilité des extensions et l’exécution hétérogène restent des chantiers R&amp;D actifs.</p>
+<p>La prochaine validation importante consiste à comparer un workflow Nexus gouverné à une baseline crédible, par exemple un modèle frontière travaillant directement sur un dossier projet moins structuré, en observant correction humaine, temps de cycle, doublons, perte de provenance et effort de reconstruction.</p>
 
-<h2>Prochaines gates</h2>
-<ul>
-  <li>tester la compréhension par un lecteur sans contexte Nexus/KLE ;</li>
-  <li>ajouter un ou deux visuels anonymisés après revue de divulgation ;</li>
-  <li>documenter un workflow hétérogène supplémentaire avec avant/après et corrections humaines ;</li>
-  <li>mesurer, quand possible, charge de correction, temps de cycle et effort de reconstruction ;</li>
-  <li>collecter les retours recruteur / partenaire / financeur sans les confondre avec une validation produit.</li>
-</ul>
-
-<h2>Frontière</h2>
-<p>Le runtime, les snapshots de moteurs, les packages partenaires, les traces privées et les éléments permettant de reconstruire le système ne sont pas publiés ici.</p>
+<h2>Frontière de divulgation</h2>
+<p>Le showcase expose les principes nécessaires à l’évaluation. Les contrats reconstructifs, snapshots de moteurs, mappings internes, packages partenaires, traces privées et détails opérationnels restent hors du dépôt public.</p>
 
 <hr>
+<h2>Documentation V0.4</h2>
+<p><a href="ARCHITECTURE_OVERVIEW.md">Architecture overview</a> · <a href="CAPABILITY_AND_EXECUTION_MODEL.md">Capability &amp; execution model</a> · <a href="PROOF_OF_USE.md">Proof of use</a> · <a href="SECURITY_AND_BOUNDARIES.md">Security &amp; boundaries</a></p>
+
 <h2>Écosystème</h2>
 <p><a href="https://lakle.fr">La KLE</a> · <a href="https://sa.lakle.fr">Souveraineté en Action</a> · <a href="https://enquetesduvivant.lakle.fr">Enquêtes du Vivant</a></p>
 </body>

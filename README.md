@@ -8,6 +8,14 @@ Purpose: recruiter / partner / funder discovery
 
 This repository is a **sanitized public showcase** of Nexus OS. It is designed for recruiters, partners and funders who need to understand the architecture, the current evidence and the R&D trajectory without access to the private runtime or deployment packages.
 
+## Author and CV
+
+Lucas Benavenuto — consultant-formateur, concepteur de dispositifs de coopération et d’outils IA, fondateur de La KLE et cofondateur de Souveraineté en Action.
+
+[Consulter le CV — 6 octobre 2026 (PDF)](assets/CV_Lucas_Benavenuto_06_octobre_2026.pdf) · [La KLE](https://lakle.fr) · [Souveraineté en Action](https://sa.lakle.fr)
+
+Le CV présente le parcours, les compétences, les interventions pédagogiques et les réalisations documentées de l’auteur.
+
 ## What Nexus OS is
 
 Nexus OS is a **human-gated, model-agnostic architecture** for turning heterogeneous project material into structured, traceable and reusable work.

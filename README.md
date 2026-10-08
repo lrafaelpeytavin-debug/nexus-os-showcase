@@ -12,9 +12,9 @@ This repository is a **sanitized public showcase** of Nexus OS. It is designed f
 
 Lucas Benavenuto — consultant-formateur, concepteur de dispositifs de coopération et d’outils IA, fondateur de La KLE et cofondateur de Souveraineté en Action.
 
-[Consulter le CV — 6 octobre 2026 (PDF)](assets/Lucas_Benavenuto_CV.pdf) · [La KLE](https://lakle.fr) · [Souveraineté en Action](https://sa.lakle.fr)
+[Consulter le CV — 7 octobre 2026 (IA / LLMOps, PDF)](assets/Lucas_Benavenuto_CV.pdf) · [La KLE](https://lakle.fr) · [Souveraineté en Action](https://sa.lakle.fr)
 
-Le CV présente le parcours, les compétences, les interventions pédagogiques et les réalisations documentées de l’auteur.
+Ce CV cible les missions IA / LLMOps : architecture de workflows, gouvernance, évaluation, observabilité et industrialisation, avec des réalisations et limites documentées.
 
 ## What Nexus OS is
 

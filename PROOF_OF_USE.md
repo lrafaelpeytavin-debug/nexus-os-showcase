@@ -114,3 +114,9 @@ The current evidence does not support claims that Nexus is a finished autonomous
 Positive feedback from a recruiter, partner, funder or external model is treated as a **reception signal**, not as proof of product validity.
 
 The project explicitly separates implementation evidence, usage evidence, hypotheses and future claims.
+
+## 9. Contexte d'usage humain — repères SA au 9 octobre 2026
+
+Souveraineté en Action, terrain de recherche-action et d'éducation populaire distinct de Nexus OS, compte selon la déclaration de son cofondateur **427 personnes** dans la communauté. Plus de **160 personnes** ont accepté le règlement et le Contrat blanc pédagogique et disposent du rôle d'entrée **« Travail Souverain »**. La newsletter de La KLE « Résilience & Synergie » compte **292 abonnés** à cette date déclarée. Le bilan SA du **16 juillet 2026** recense **16 ateliers** et **169 participations cumulées**.
+
+Ces chiffres caractérisent un périmètre collectif et une architecture d'engagement ; ils ne constituent pas une mesure d'impact, une preuve d'autonomie effective des participants ou un résultat causé par Nexus. La provenance des données est déclarative et les périodes restent distinctes. Cette mention aide les lecteurs des CV à interpréter les références SA/KLE.

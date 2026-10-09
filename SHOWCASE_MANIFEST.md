@@ -29,3 +29,13 @@ V0.4 does not promote planned comparative experiments into completed proof.
 ## Repository contents
 
 The public showcase contains no copied engine source, executable private runtime, partner traces or private corpora.
+
+## Actualisation du portefeuille CV — 9 octobre 2026
+
+Les CV sont six dérivations publiques d'un parcours professionnel documenté, orientées vers des besoins différents. La version générale conserve son lien historique stable `assets/Lucas_Benavenuto_CV.pdf`. Les versions spécialisées portent une date dans leur nom. Les précédents PDF sont conservés dans l'historique Git.
+
+Les chiffres SA (427 personnes, plus de 160 validations du cadre avec rôle « Travail Souverain » au 09/10/2026, 16 ateliers et 169 participations cumulées au bilan du 16/07/2026) désignent le dispositif collectif. La newsletter « Résilience & Synergie » est indiquée à 292 abonnés selon déclaration du porteur au 09/10/2026. Ces mentions ne valent pas résultats individuels ni validation d'impact.
+
+Cette passe documentaire ne modifie ni architecture Nexus, ni contrats privés, ni code d'exécution, ni critères d'évaluation. Les CV contiennent uniquement des informations professionnelles dont la publication a été demandée.
+
+[Voir les six profils](CV_PORTFOLIO.md).

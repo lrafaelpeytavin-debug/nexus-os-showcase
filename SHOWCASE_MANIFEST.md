@@ -39,3 +39,6 @@ Les chiffres SA (427 personnes, plus de 160 validations du cadre avec rôle « T
 Cette passe documentaire ne modifie ni architecture Nexus, ni contrats privés, ni code d'exécution, ni critères d'évaluation. Les CV contiennent uniquement des informations professionnelles dont la publication a été demandée.
 
 [Voir les six profils](CV_PORTFOLIO.md).
+
+## Mise à jour documentaire du 9 octobre 2026 — CV Habitat V0.4
+Le PDF Habitat participatif conserve son URL de dépôt, mais son contenu est remplacé par la direction artistique déjà employée dans le portefeuille socio-technique. Contrôle de deux pages et des hyperliens réalisés ; sources privées AJMF/Gmail exclues de l'export public. Les chiffres SA les plus récents (environ 20 rencontres et 180 participations comptées hors répétitions) sont déclaratifs et ne remplacent pas rétroactivement le bilan du 16 juillet 2026. Aucun statut de production Nexus n'est modifié.

@@ -45,3 +45,6 @@ Le PDF Habitat participatif conserve son URL de dépôt, mais son contenu est re
 
 ## Passe corrective du 9 octobre 2026 — CV Habitat V0.5
 Correction de l'UX des hyperliens PDF/Word sans changer l'URL publique : 24 liens actifs (15 destinations distinctes) désormais mis en évidence par texte vert foncé, soulignement et fond vert clair. Les liens pointent vers des références publiques de parcours ; la source privée de candidature demeure exclue du dépôt. Résultat local QA : 2 pages rendues, structure de la DA conservée, aucun lien malformé. La clarification métrique est « environ 180 participations après exclusion des répétitions » (déclaration terrain, pas personnes distinctes certifiées). PR distincte, sans changement runtime.
+
+## Correction de chronologie — CV Habitat V0.6 (9 octobre 2026)
+Retour utilisateur : MBway, mission d'enseignement actuelle depuis septembre 2026, figurait à tort en toute fin des expériences. Le bloc existant est déplacé au début des expériences pertinentes, avant SA et KLE. Version source DOCX V0.6 et PDF V0.6 archivés en Drive ; PDF public remplacé à URL inchangée. Contrôle de l'ordre MBway → SA → KLE, rendu en 2 pages et 24 liens actifs. Aucune modification des 427 membres SA, >160 acceptations du cadre, ≈20 rencontres, ≈180 participations après exclusion des répétitions, ni des preuves techniques Nexus.

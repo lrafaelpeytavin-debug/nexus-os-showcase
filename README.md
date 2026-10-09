@@ -8,13 +8,24 @@ Purpose: recruiter / partner / funder discovery
 
 This repository is a **sanitized public showcase** of Nexus OS. It is designed for recruiters, partners and funders who need to understand the architecture, the current evidence and the R&D trajectory without access to the private runtime or deployment packages.
 
-## Author and CV
+## Author and CV — versions du 9 octobre 2026
 
-Lucas Benavenuto — concepteur de systèmes socio-techniques, spécialisé en ingénierie de l’information, recherche-action, gouvernance IA et coopération. Fondateur de La KLE et cofondateur de Souveraineté en Action.
+**Lucas Rafael Benavenuto** — concepteur de systèmes socio-techniques et de dispositifs de coopération, fondateur de La KLE et cofondateur de Souveraineté en Action. Parcours à l'interface de la recherche-action, de l'éducation populaire, de la pédagogie, de l'ingénierie de l'information et des systèmes IA.
 
-[CV général — 8 octobre 2026 (architecture socio-technique, IA et coopération, PDF)](assets/Lucas_Benavenuto_CV.pdf) · [CV ciblé IA / LLMOps — 7 octobre 2026 (PDF)](assets/Lucas_Benavenuto_CV_LLMOps_2026-10-07.pdf) · [La KLE](https://lakle.fr) · [Souveraineté en Action](https://sa.lakle.fr)
+**Choisir le CV adapté au besoin du recruteur :**
 
-Le CV général est le document de référence : conception et recherche-action, ingénierie des connaissances, gouvernance des systèmes IA, pédagogie et coopération. Le CV IA / LLMOps est une déclinaison ciblée sur des compétences pertinentes pour une mission spécialisée, sans constituer une preuve d’industrialisation en production.
+- **[Général — architecture socio-technique](assets/Lucas_Benavenuto_CV.pdf)** — Profil transversal : gouvernance de l'information, IA, recherche-action, coordination et coopération.
+- **[IA / LLMOps et systèmes agents](assets/Lucas_Benavenuto_CV_IA_LLMOps_2026-10-09.pdf)** — Architecture d'agents et de workflows LLM, QA, traçabilité, critères d'acceptation et gouvernance.
+- **[Facilitation et capitalisation](assets/Lucas_Benavenuto_CV_Facilitation_2026-10-09.pdf)** — Accompagnement de collectifs, éducation populaire, formation et mémoire des décisions.
+- **[Recherche-action et évaluation](assets/Lucas_Benavenuto_CV_RechercheAction_Evaluation_2026-10-09.pdf)** — Enquête participative, analyse des changements, capitalisation et transmission.
+- **[Territoires et transition écologique](assets/Lucas_Benavenuto_CV_Territoires_2026-10-09.pdf)** — Animation territoriale, agroécologie, partenariats et conduite de projets.
+- **[Habitat participatif et projets coopératifs](assets/Lucas_Benavenuto_CV_HabitatParticipatif_2026-10-09.pdf)** — Facilitation de groupes, gouvernance partagée et accompagnement humain des projets.
+
+[Guide de choix des CV et règles d'actualisation](CV_PORTFOLIO.md) · [La KLE](https://lakle.fr) · [Souveraineté en Action](https://sa.lakle.fr) · [Newsletter Résilience & Synergie](https://www.linkedin.com/newsletters/la-kle-r%C3%A9silience-synergie-7266945786234519552)
+
+**Repères communs, communiqués par le porteur au 09/10/2026 :** 427 personnes dans la communauté SA ; plus de 160 ayant accepté le règlement et le Contrat blanc pédagogique (rôle « Travail Souverain ») ; newsletter *Résilience & Synergie* à 292 abonnés. Le bilan SA du 16/07/2026 porte sur 16 ateliers et 169 participations cumulées. Les métriques SA sont des volumes du dispositif collectif et non des résultats individuels ni des mesures d'impact. Les chiffres les plus récents sont déclaratifs.
+
+Le **CV général** reste le point d'entrée stable du dépôt (`assets/Lucas_Benavenuto_CV.pdf`). Les autres CV sont des représentations ciblées du même parcours, avec des priorités de lecture différentes. Ils n'ajoutent pas de qualifications formelles, de missions accomplies ou de preuves d'industrialisation au-delà des sources.
 
 ## What Nexus OS is
 

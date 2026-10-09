@@ -42,3 +42,6 @@ Cette passe documentaire ne modifie ni architecture Nexus, ni contrats privés, 
 
 ## Mise à jour documentaire du 9 octobre 2026 — CV Habitat V0.4
 Le PDF Habitat participatif conserve son URL de dépôt, mais son contenu est remplacé par la direction artistique déjà employée dans le portefeuille socio-technique. Contrôle de deux pages et des hyperliens réalisés ; sources privées AJMF/Gmail exclues de l'export public. Les chiffres SA les plus récents (environ 20 rencontres et 180 participations comptées hors répétitions) sont déclaratifs et ne remplacent pas rétroactivement le bilan du 16 juillet 2026. Aucun statut de production Nexus n'est modifié.
+
+## Passe corrective du 9 octobre 2026 — CV Habitat V0.5
+Correction de l'UX des hyperliens PDF/Word sans changer l'URL publique : 24 liens actifs (15 destinations distinctes) désormais mis en évidence par texte vert foncé, soulignement et fond vert clair. Les liens pointent vers des références publiques de parcours ; la source privée de candidature demeure exclue du dépôt. Résultat local QA : 2 pages rendues, structure de la DA conservée, aucun lien malformé. La clarification métrique est « environ 180 participations après exclusion des répétitions » (déclaration terrain, pas personnes distinctes certifiées). PR distincte, sans changement runtime.

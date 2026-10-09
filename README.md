@@ -19,7 +19,7 @@ This repository is a **sanitized public showcase** of Nexus OS. It is designed f
 - **[Facilitation et capitalisation](assets/Lucas_Benavenuto_CV_Facilitation_2026-10-09.pdf)** — Accompagnement de collectifs, éducation populaire, formation et mémoire des décisions.
 - **[Recherche-action et évaluation](assets/Lucas_Benavenuto_CV_RechercheAction_Evaluation_2026-10-09.pdf)** — Enquête participative, analyse des changements, capitalisation et transmission.
 - **[Territoires et transition écologique](assets/Lucas_Benavenuto_CV_Territoires_2026-10-09.pdf)** — Animation territoriale, agroécologie, partenariats et conduite de projets.
-- **[Habitat participatif et projets coopératifs](assets/Lucas_Benavenuto_CV_HabitatParticipatif_2026-10-09.pdf)** — CV V0.4 sur la DA de référence (photo, bleu marine et vert, deux pages) : facilitation, AJMF, cartographie territoriale, chantiers participatifs et ingénierie documentaire/IA.
+- **[Habitat participatif et projets coopératifs](assets/Lucas_Benavenuto_CV_HabitatParticipatif_2026-10-09.pdf)** — CV V0.5 sur la DA de référence (photo, bleu marine et vert, deux pages ; liens surlignés en vert et activables) : facilitation, AJMF, cartographie territoriale, chantiers participatifs et ingénierie documentaire/IA.
 
 [Guide de choix des CV et règles d'actualisation](CV_PORTFOLIO.md) · [La KLE](https://lakle.fr) · [Souveraineté en Action](https://sa.lakle.fr) · [Newsletter Résilience & Synergie](https://www.linkedin.com/newsletters/la-kle-r%C3%A9silience-synergie-7266945786234519552)
 

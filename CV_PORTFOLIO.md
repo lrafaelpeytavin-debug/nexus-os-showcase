@@ -11,7 +11,7 @@ Mise à jour : **9 octobre 2026**. Portfolio public rattaché au [showcase Nexus
 | Facilitation et capitalisation | [Télécharger le PDF](assets/Lucas_Benavenuto_CV_Facilitation_2026-10-09.pdf) | Soutien à la mémoire et à la capitalisation |
 | Recherche-action et évaluation | [Télécharger le PDF](assets/Lucas_Benavenuto_CV_RechercheAction_Evaluation_2026-10-09.pdf) | Traçabilité et analyse documentaire |
 | Territoires et transition écologique | [Télécharger le PDF](assets/Lucas_Benavenuto_CV_Territoires_2026-10-09.pdf) | Appui méthodologique complémentaire |
-| Habitat participatif et projets coopératifs | [Télécharger le PDF V0.5, liens verts cliquables](assets/Lucas_Benavenuto_CV_HabitatParticipatif_2026-10-09.pdf) | Animation de collectifs, AJMF, Carte Ouverte, terrains écologiques et outils de continuité |
+| Habitat participatif et projets coopératifs | [Télécharger le PDF V0.6, MBway en tête, liens verts cliquables](assets/Lucas_Benavenuto_CV_HabitatParticipatif_2026-10-09.pdf) | Animation de collectifs, AJMF, Carte Ouverte, terrains écologiques et outils de continuité |
 
 Chaque document présente le même parcours, avec une **priorité de lecture adaptée au métier**. La compétence technique reste accessible dans les profils orientés accompagnement ; les expériences de terrain et de coopération restent visibles dans les profils techniques.
 
@@ -36,3 +36,6 @@ La version habitat publiée a été rebâtie sur le fichier Word de référence 
 
 ### Correction des liens — CV Habitat V0.5 (09/10/2026)
 Le CV Habitat, à son URL PDF publique inchangée, emploie désormais une mise en évidence verte lisible : texte vert foncé, soulignement et surlignage vert clair. La version Word contient des hyperliens OOXML externes, et le PDF exporté comporte 24 annotations de liens cliquables réparties sur deux pages, pour 15 destinations distinctes. Vérification par extraction indépendante des annotations PDF et contrôle visuel des deux pages. Les principaux titres d'expériences renvoient à des sites publics pertinents. Formulation SA précisée : environ 180 participations après exclusion des répétitions, sans les assimiler à 180 personnes uniques. L'ancienne version reste traçable dans Git et Drive.
+
+### Rectification du classement — CV Habitat V0.6 (09/10/2026)
+Après retour du candidat, **MBway — intervenant en M1 depuis septembre 2026** est placé en premier dans « Expériences et projets collectifs », suivi de SA (depuis décembre 2025), La KLE/Nexus OS (depuis 2024) et l'AJMF. L'entrée MBway située auparavant en dernière position du parcours de terrain est déplacée, non dupliquée. Aucun fait de parcours ou diplôme n'a été ajouté ; la DA, le portrait, les liens verts soulignés et le surlignage sont conservés. QA : PDF deux pages, 24 annotations URI actives, destinations inchangées, vérification des deux rendus, contrôle ordinal MBway avant SA dans le PDF. URL publique préservée.

@@ -2,7 +2,8 @@
 
 Status: `PUBLIC_SAFE_SHOWCASE_V0.4`  
 Date: 2026-10-05  
-Purpose: recruiter / partner / funder discovery
+Purpose: recruiter / partner / funder discovery  
+Site evidence update: 2026-10-14
 
 > **Public showcase ≠ open-source release.**
 
@@ -26,6 +27,16 @@ This repository is a **sanitized public showcase** of Nexus OS. It is designed f
 **Repères de terrain communiqués par le porteur au 09/10/2026 :** 427 personnes dans la communauté SA ; plus de 160 ayant accepté le règlement et le Contrat blanc pédagogique (rôle-seuil « Travail Souverain ») ; environ 20 rencontres et 180 participations comptées hors répétitions selon un bilan provisoire dont les unités restent à consolider ; newsletter *Résilience & Synergie* à 292 abonnés. Le bilan antérieur du 16/07/2026 (16 ateliers / 169 participations cumulées) demeure une photographie historique et n'est pas directement comparable. Ces chiffres décrivent le dispositif collectif ; ils ne constituent pas des résultats individuels ou des impacts causaux.
 
 Le **CV général** reste le point d'entrée stable du dépôt (`assets/Lucas_Benavenuto_CV.pdf`). Les autres CV sont des représentations ciblées du même parcours, avec des priorités de lecture différentes. Ils n'ajoutent pas de qualifications formelles, de missions accomplies ou de preuves d'industrialisation au-delà des sources.
+
+## Sites, interopérabilité et UX appliquée — mise à jour du 14 octobre 2026
+
+Le travail sur [La KLE](https://lakle.fr), [Souveraineté en Action](https://sa.lakle.fr) et [Enquêtes du Vivant](https://enquetesduvivant.lakle.fr) fournit un terrain concret de conception de services : circulation de ressources entre sites avec attribution, flux d’événements, relations entre rencontres et restitutions, retours d’usage facultatifs et fiches pédagogiques adaptées aux publics.
+
+Les branches principales examinées contiennent notamment un lecteur de ressources avec validation et dédoublonnage, des projections événement–ressource, des formulaires de retour et une adaptation éditoriale déterministe. Des reçus historiques documentent les contrôles de publication et un pilote local d’IA sous validation humaine. La synthèse distingue code examiné, vérification historique, fonctionnalité candidate et effets restant à mesurer.
+
+**[Lire le cas concret : architecture, fonctions, UX, IA et registre de preuves](SITES_INTEROPERABILITY_AND_UX.md).**
+
+Cette mise à jour documente les applications web et leur articulation avec les principes Nexus ; elle ne change pas le niveau de maturité déclaré du runtime. Les tests n’ont pas été réexécutés pendant cette passe documentaire et la dernière exécution QA SA consultée est en échec.
 
 ## What Nexus OS is
 

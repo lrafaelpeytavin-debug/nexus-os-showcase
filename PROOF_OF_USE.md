@@ -120,3 +120,9 @@ The project explicitly separates implementation evidence, usage evidence, hypoth
 Souveraineté en Action, terrain de recherche-action et d'éducation populaire distinct de Nexus OS, compte selon la déclaration de son cofondateur **427 personnes** dans la communauté. Plus de **160 personnes** ont accepté le règlement et le Contrat blanc pédagogique et disposent du rôle d'entrée **« Travail Souverain »**. La newsletter de La KLE « Résilience & Synergie » compte **292 abonnés** à cette date déclarée. Le bilan SA du **16 juillet 2026** recense **16 ateliers** et **169 participations cumulées**.
 
 Ces chiffres caractérisent un périmètre collectif et une architecture d'engagement ; ils ne constituent pas une mesure d'impact, une preuve d'autonomie effective des participants ou un résultat causé par Nexus. La provenance des données est déclarative et les périodes restent distinctes. Cette mention aide les lecteurs des CV à interpréter les références SA/KLE.
+
+## 10. Recherche-action : résultats situés et corrections
+
+[Les cas anonymisés](RESEARCH_ACTION_CASES.md) complètent les signaux techniques par trois séquences documentaires : critique technique et restriction d’une généralisation ; capitalisation d’ateliers avec relecture professionnelle attendue ; comparaison pédagogique sur une seule situation avec bénéfice limité et traitement supplémentaire non exécuté. Le [terrain des sites](SITES_INTEROPERABILITY_AND_UX.md) documente les réalisations web associées.
+
+Cette passe du 14 octobre 2026 a relu les pièces de travail ; elle n’a pas rejoué les expériences. Les exécutions rapportées restent distinctes des reproductions indépendantes. Les résultats n’établissent pas un impact causal, une autonomie acquise ou une validation du runtime complet.

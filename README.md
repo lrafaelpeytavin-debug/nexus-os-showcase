@@ -143,6 +143,12 @@ These projects are related through their functions:
 
 Nexus OS is the **memory, provenance, derivation, QA and human/AI orchestration layer** developed across these kinds of contexts. Each public project retains its own function and authority.
 
+## Recherche-action et coopération — cas anonymisés
+
+Les réalisations techniques s’inscrivent dans une boucle de recherche-action : situation → observation → critique croisée → essai → révision → transmission. Trois cas documentaires anonymisés montrent une hypothèse technique corrigée, la capitalisation d’une pratique d’animation et un essai pédagogique au résultat limité. Ils sont reliés au terrain des sites et distinguent contributions des partenaires, travail documentaire KLE/Nexus et résultats restant à mesurer.
+
+**[Lire les cas, les niveaux de preuve et les frontières de divulgation](RESEARCH_ACTION_CASES.md).**
+
 ## Selected proof-of-use signals
 
 Public-safe snapshot from 2026:

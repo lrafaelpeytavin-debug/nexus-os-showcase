@@ -48,3 +48,11 @@ Correction de l'UX des hyperliens PDF/Word sans changer l'URL publique : 24 lien
 
 ## Correction de chronologie — CV Habitat V0.6 (9 octobre 2026)
 Retour utilisateur : MBway, mission d'enseignement actuelle depuis septembre 2026, figurait à tort en toute fin des expériences. Le bloc existant est déplacé au début des expériences pertinentes, avant SA et KLE. Version source DOCX V0.6 et PDF V0.6 archivés en Drive ; PDF public remplacé à URL inchangée. Contrôle de l'ordre MBway → SA → KLE, rendu en 2 pages et 24 liens actifs. Aucune modification des 427 membres SA, >160 acceptations du cadre, ≈20 rencontres, ≈180 participations après exclusion des répétitions, ni des preuves techniques Nexus.
+
+## Harmonisation des terrains et de la recherche-action — 14 octobre 2026
+
+Ajout de [SITES_INTEROPERABILITY_AND_UX.md](SITES_INTEROPERABILITY_AND_UX.md) et de [RESEARCH_ACTION_CASES.md](RESEARCH_ACTION_CASES.md), reliés depuis le README, les preuves d’usage et la présentation HTML. La base architecturale V0.4 conserve son statut ; cette mise à jour enrichit les cas et leurs qualifications.
+
+Revue documentaire : branches principales des trois sites, reçus historiques, index de coopération et contre-lecture actualisés en octobre, index et note de pratique réflexive du 14 octobre, rapport pédagogique de clôture provisoire. Aucun nouvel essai expérimental ou de production n’est déclaré.
+
+Les cas anonymisés retirent noms, organismes partenaires, citations et liens sources privés. Ils exposent des transformations et des limites à un niveau abstrait ; les originaux et les attributions détaillées restent contrôlés. Aucune permission de mémoire, règle runtime ou condition d’accès aux sources n’est modifiée. Les essais proposés, les analyses en relecture et les résultats négatifs ou indécidables conservent leur statut.

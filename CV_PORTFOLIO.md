@@ -27,7 +27,7 @@ Chaque document présente le même parcours, avec une **priorité de lecture ada
 
 L'offre d'emploi, les preuves de parcours, la représentation du CV et les retours d'un recruteur sont des objets distincts. Un changement d'audience modifie l'ordre et le niveau de détail, pas l'origine des faits.
 
-Les anciennes versions sont préservées dans le suivi documentaire privé ; le dépôt Git conserve l'historique de la version générale et la variante IA précédente. Seuls les PDF sélectionnés pour présentation professionnelle sont publiés. Le contrat blanc pédagogique de SA est un cadre de clarté, non un contrat de travail.
+Les anciennes versions sont préservées dans le suivi documentaire privé ; le dépôt Git conserve l'historique de la version générale et la variante IA précédente. Seuls les PDF sélectionnés pour présentation professionnelle sont publiés. Le règlement et le Contrat blanc pédagogique constituent le cadre de fonctionnement de Souveraineté en Action dans son ensemble.
 
 **Statut :** CV rédigés, relus et mis en forme ; les informations chiffrées fournies par le porteur n'ont pas été auditées indépendamment. Les candidatures à des offres précises restent à confirmer séparément.
 

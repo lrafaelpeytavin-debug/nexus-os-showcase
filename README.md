@@ -26,6 +26,8 @@ This repository is a **sanitized public showcase** of Nexus OS. It is designed f
 
 **Repères de terrain communiqués par le porteur au 09/10/2026 :** 427 personnes dans la communauté SA ; plus de 160 ayant accepté le règlement et le Contrat blanc pédagogique (rôle-seuil « Travail Souverain ») ; environ 20 rencontres et 180 participations comptées hors répétitions selon un bilan provisoire dont les unités restent à consolider ; newsletter *Résilience & Synergie* à 292 abonnés. Le bilan antérieur du 16/07/2026 (16 ateliers / 169 participations cumulées) demeure une photographie historique et n'est pas directement comparable. Ces chiffres décrivent le dispositif collectif ; ils ne constituent pas des résultats individuels ou des impacts causaux.
 
+Le règlement et le **Contrat blanc pédagogique** constituent le cadre de fonctionnement de **Souveraineté en Action dans son ensemble**. Les formats de rencontre et d'atelier s'inscrivent dans cet espace collectif.
+
 Le **CV général** reste le point d'entrée stable du dépôt (`assets/Lucas_Benavenuto_CV.pdf`). Les autres CV sont des représentations ciblées du même parcours, avec des priorités de lecture différentes. Ils n'ajoutent pas de qualifications formelles, de missions accomplies ou de preuves d'industrialisation au-delà des sources.
 
 ## Sites, interopérabilité et UX appliquée — mise à jour du 14 octobre 2026

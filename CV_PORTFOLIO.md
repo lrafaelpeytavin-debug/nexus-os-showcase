@@ -25,6 +25,6 @@ Les chiffres de newsletter sont des repères datés d’octobre (292 au 9 octobr
 
 ## Provenance et conservation
 
-Les sources professionnelles autorisées proviennent des références Word/PDF du portefeuille, conservées séparément des nouveaux rendus. Les changements du 5 novembre portent sur les effectifs SA, leur date, la distinction entre unités de compte et le retrait des deux formats compacts périmés. Ils n’ajoutent aucun diplôme, employeur, mission ou résultat de terrain.
+Les sources professionnelles autorisées proviennent des références Word/PDF du portefeuille, conservées séparément des nouveaux rendus. Les changements du 5 novembre portent sur les effectifs SA, leur date, la distinction entre unités de compte, le pilote documentaire Nexus intégré aux paragraphes de parcours et le retrait des deux formats compacts périmés. Le nouveau cas est daté : réponse IA locale reçue et trois passages consultables dans le cockpit interne, sans généralisation à un agent complet en production. Ils n’ajoutent aucun diplôme, employeur, mission ou résultat de terrain.
 
 Les CV publics contiennent des coordonnées professionnelles et des liens déjà destinés à la diffusion ; les pièces biographiques et les échanges de candidature privés restent exclus. [Contrôle des textes, liens et rendus](PUBLICATION_QA_20261105.md).

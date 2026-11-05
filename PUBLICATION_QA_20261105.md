@@ -18,12 +18,14 @@ Six PDF ont été corrigés dans leurs flux de texte en conservant les pages, le
 
 | Profil | Pages | Liens conservés | SHA-256 du PDF actuel |
 |---|---:|---:|---|
-| General | 2 | 11 | `33ab354a331b13fcdeb4cb2a0739e5147fb3187ad6480aaee94789b3426df422` |
-| IA_LLMOps | 2 | 4 | `ef00bcf64fc7ddfaa3f0cfb324376e86ff5bc8d4f834acb4b93ce93a8b8c2944` |
-| RechercheAction_Evaluation | 2 | 5 | `3c92dc2adcb0c21b0da5e54417f2d3e5d9948d28ec22a75e9a6b54b2b0580c0b` |
-| HabitatParticipatif | 2 | 24 | `a9e11fefead31b9876725021c067d1fa0be65bf63f751e58a3dc8ef987079342` |
-| Facilitation | 2 | 18 | `01349af753e14c66da1d3a07e30d045eb17ec54e1066d4f03bfaee34d004a576` |
-| Territoires | 2 | 18 | `248825e70434dbbca1ad0615866b96e7939bff6f9eed44ac42cbe0fc551bcf94` |
+| General | 2 | 11 | `21354456d674e1c6e61e21503bddc07be8b190d4147464f6545645b4e2807128` |
+| IA_LLMOps | 2 | 4 | `c49e7e3b3b937790a9f9d18b70bda9a079872ebd81f9822f0439dcdd93d1bbc6` |
+| RechercheAction_Evaluation | 2 | 5 | `73295770946b628f2a955aaf6e39245195924f594094c372872c42ff213a8427` |
+| HabitatParticipatif | 2 | 24 | `8dd33dac6365e64d35840d59708a6142c1befbef686f8f0ec2674b00931a83e5` |
+| Facilitation | 2 | 18 | `cc91c299cc2f779c847da0afa5c1b9ae78af3e8bcb2a920508f8d7a3ec3959f3` |
+| Territoires | 2 | 18 | `519679515aef554078af455b81d0ef33f3dbbc7cbb8892685e68f8b8b356511a` |
+
+La contre-lecture indépendante a relevé que les premiers dérivés conservaient seulement les anciennes preuves Nexus. La correction intègre le pilote documentaire du 5 novembre dans le paragraphe Nexus existant de chaque CV : réponse IA locale reçue et trois passages consultables. Les essais historiques restent dans les blocs de preuves, avec leur portée. Le contrôle exige désormais ce cas dans chacun des six PDF et chacune des six sources DOCX.
 
 Les sources Word originales restent préservées. Des dérivés DOCX séparés portent les changements textuels correspondants ; leur contenu et leur structure OOXML ont été vérifiés. **Leur rendu Word n’est pas qualifié** : LibreOffice/Word n’est pas installé dans l’environnement de rendu. Ils restent des sources éditables à relire avant diffusion ; les livrables publics de cette passe sont les PDF rendus, pas un export Word prétendument contrôlé.
 

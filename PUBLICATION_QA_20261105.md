@@ -1,5 +1,11 @@
 # Contrôle de la publication du 5 novembre 2026
 
+## Complément documentaire après l'importation du corpus CA
+
+Trois reçus privés ont été lus et leurs empreintes vérifiées : import effectif, contrelecture après import et sélection documentaire en lecture seule. Ils établissent trois documents ajoutés, huit accès autorisés par document, conservation des anciennes versions et des six retours, et contrôle du sélecteur et du validateur sur la base courante, en lecture seule, pour les huit membres sur les trois titres. Ces contrôles sont des appels internes aux méthodes existantes, avec les droits et données réels ; ils ne constituent pas 24 requêtes HTTP authentifiées. Seul le témoin d'accès invité est un GET HTTP, refusé avec un statut 401. L'opération n'a créé ni session ni inférence et n'a pas appelé de lecteur Drive ; aucune nouvelle réception humaine n'a été observée.
+
+La contrelecture ciblée distingue cette preuve d'intégration de la première réponse IA déjà observée. Le delta reste dans le cas documentaire, le registre de preuves, le manifeste et ce contrôle ; HTML, CV, effectifs SA et preuves d'usage antérieures ne changent pas. Les liens Markdown sont vérifiés, les octets des PDF et de la page d'accueil restent identiques à la publication précédente. Aucun nouveau contrôle visuel ou test modèle n'est revendiqué pour ce delta textuel.
+
 ## Plan, réalisation et contre-lecture
 
 La présentation est réorganisée autour du parcours cockpit effectivement reçu, puis du fonctionnement, des preuves datées, des suites et du parcours professionnel. Le contrôle critique vérifie la cohérence de ces états entre HTML, README, architecture, preuves et CV : aucun projet de raccordement n’est promu en livraison.

@@ -6,6 +6,8 @@
 
 Une question réelle de préparation du conseil d’administration a reçu une réponse candidate visible dans la session authentifiée du porteur. Les trois passages utilisés ont été ouverts pour comparaison. Les reçus techniques privés relient cette génération au fournisseur Ollama local. L’observation visuelle montre une concordance du sens ; l’égalité complète avec les versions sources reste une vérification distincte.
 
+Après cet échange, trois documents de travail supplémentaires ont été réellement importés dans le même espace, avec conservation des versions antérieures et des six retours existants. Le contrôle du sélecteur et du validateur sur la base courante, en lecture seule, couvre ces documents pour huit membres autorisés sur les trois titres ; l’accès sans authentification est refusé. Cette vérification technique ne correspond ni à huit nouveaux usages humains, ni à une nouvelle réponse du modèle sur ces textes. Aucun appel modèle ou lecteur Drive n’a été effectué pendant cette étape.
+
 [Cas détaillé et prochaine épreuve](COCKPIT_DOCUMENTARY_PILOT.md).
 
 | Dimension | Établi dans ce cas | À qualifier ensuite |
@@ -13,7 +15,8 @@ Une question réelle de préparation du conseil d’administration a reçu une r
 | Conversation | Réponses générales et documentaire reçues | Reprise autonome et continuité après interruption |
 | Sources | Trois passages consultables | Fidélité de version et couverture complète |
 | Exécution | Génération locale reliée à des reçus privés | Latence, qualité comparée et charge simultanée |
-| Autorisations | Parcours dans une session authentifiée | Épreuve avec d’autres principaux et espaces |
+| Autorisations | Parcours dans une session authentifiée ; puis contrôle interne du sélecteur et du validateur sur trois nouveaux documents pour huit membres autorisés | Épreuve d’usage réelle avec d’autres personnes et espaces |
+| Corpus du même espace | Trois documents de travail importés, versions et retours antérieurs conservés | Nouvelle réponse utile sur ces textes et contrôle de leurs citations à éprouver |
 | Mémoire | Contexte documentaire offert par le cockpit | Drive étendu et admission des nouvelles sources |
 | Canaux | Cockpit utilisé | Nouvelle preuve utile Telegram/Discord attendue |
 | Modèles | Ressource locale employée pour ce cas | Routage adaptatif par tâche à intégrer et mesurer |

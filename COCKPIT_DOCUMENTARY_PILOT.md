@@ -8,6 +8,10 @@ Le 5 novembre 2026, le porteur du projet a demandé trois priorités à discuter
 
 Ce parcours marque une évolution du pilote : l'assistance générale déjà observée est complétée par un premier échange documentaire effectivement reçu dans l'interface. Il fournit un cas de travail pour les prochaines améliorations.
 
+Le même jour, après ce premier échange, trois documents de travail du CA ont été importés dans le même espace. Les versions antérieures et les six retours existants ont été conservés. Chaque nouveau document est accessible aux huit membres autorisés ; les méthodes de sélection documentaire et de validation du contexte ont été contrôlées sur la base courante, en lecture seule, pour ces huit membres sur les trois titres. L'accès sans authentification a été refusé.
+
+Cette étape établit l'intégration des documents et le fonctionnement de leur sélection sous les droits existants. Elle n'a déclenché aucun nouvel appel au modèle et ne constitue pas une nouvelle réponse IA reçue sur ces textes. L'accès étendu au Drive et la reprise d'usage par d'autres personnes restent à éprouver. Les documents importés restent des documents de travail : aucune nouvelle réunion ni adoption de procès-verbal n'est déduite de leur présence.
+
 ## Comment le travail circule
 
 ```text
@@ -30,6 +34,7 @@ L'inférence de ce cas est reliée à un fournisseur Ollama local dans les reçu
 |---|---|
 | Question générale et réponse visible | Usage confirmé par le porteur |
 | Question sur un document de son espace | Premier parcours utile confirmé, avec trois passages affichés |
+| Enrichissement du corpus du même espace | Trois documents de travail importés ; sélecteur et validateur contrôlés sur la base courante pour huit membres, en lecture seule, sans nouvelle génération |
 | Vérification des références | Passages consultables ; contrôle complet des versions sources encore à approfondir |
 | Retour après déconnexion ou interruption | Qualification en cours |
 | Mémoire de projet étendue au Drive | Raccord en préparation, au-delà du corpus actuellement offert |

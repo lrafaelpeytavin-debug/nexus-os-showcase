@@ -1,5 +1,11 @@
 # Manifeste de publication
 
+## Complément au cas documentaire du 5 novembre 2026
+
+Après la première réponse documentaire observée, trois documents de travail ont été réellement importés dans le même espace du CA. Les versions et six retours antérieurs sont préservés. Un contrôle du sélecteur et du validateur sur la base courante, en lecture seule, vérifie la sélection et la préparation du contexte pour huit membres autorisés sur les trois titres ; l'accès sans authentification est refusé. Cette preuve enrichit le cas existant et son registre, sans nouvelle carte sur la page d'accueil ni modification des CV.
+
+Cette opération ne comporte ni nouvelle génération, ni réception humaine d'une réponse sur ces textes, ni accès au Drive étendu, ni réunion ou adoption de procès-verbal. Le dérivé public ne reproduit aucun nom, contenu, identifiant, lien source privé ou mécanisme d'exécution. Les états antérieurs ci-dessous restent datés.
+
 ## Actualisation cohérente du 5 novembre 2026
 
 Cette passe documentaire remplace l’ordre de présentation : usage cockpit observé, fonctionnement, preuves datées, prochaines validations, terrain collectif et parcours professionnel. README, HTML, registre des preuves et portefeuille CV portent le même état. L’architecture V0.4 reste la référence de conception ; aucune version du moteur n’est modifiée.

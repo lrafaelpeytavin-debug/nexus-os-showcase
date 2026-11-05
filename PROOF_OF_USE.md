@@ -1,9 +1,16 @@
 # Selected Proof-of-Use — Public-safe snapshot
 
 Status: `PUBLIC_SAFE_SHOWCASE_V0.4`  
-Date: 2026-10-05
+Date: 2026-10-05  
+Evidence update: 2026-11-05
 
 This page separates **observed evidence**, **implemented alpha signals** and **current validation questions**. It does not treat architectural intentions as completed proof.
+
+## Documentary cockpit milestone — 5 November 2026
+
+A real authenticated user asked a useful question about a council preparation document and received a candidate answer with three inspectable passages. Private technical receipts associate this case with local Ollama inference. The user then opened the passages for comparison. Full source-version fidelity, reconnection, broader Drive memory and multi-channel continuity remain separate validation steps. This is one situated usage case, not a latency or multi-user benchmark.
+
+[Read the case, its architecture and the next user trial](COCKPIT_DOCUMENTARY_PILOT.md).
 
 ## 1. Instrumented testing
 

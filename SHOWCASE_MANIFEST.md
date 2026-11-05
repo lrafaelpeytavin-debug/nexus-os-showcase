@@ -56,3 +56,9 @@ Ajout de [SITES_INTEROPERABILITY_AND_UX.md](SITES_INTEROPERABILITY_AND_UX.md) et
 Revue documentaire : branches principales des trois sites, reçus historiques, index de coopération et contre-lecture actualisés en octobre, index et note de pratique réflexive du 14 octobre, rapport pédagogique de clôture provisoire. Aucun nouvel essai expérimental ou de production n’est déclaré.
 
 Les cas anonymisés retirent noms, organismes partenaires, citations et liens sources privés. Ils exposent des transformations et des limites à un niveau abstrait ; les originaux et les attributions détaillées restent contrôlés. Aucune permission de mémoire, règle runtime ou condition d’accès aux sources n’est modifiée. Les essais proposés, les analyses en relecture et les résultats négatifs ou indécidables conservent leur statut.
+
+## Evidence update — 5 November 2026
+
+Added `COCKPIT_DOCUMENTARY_PILOT.md` and entry points in README, proof-of-use and the HTML presentation. The case describes one authenticated documentary journey with a visible candidate and inspectable citations. It separates source review, reconnection, extended Drive access and cross-channel delivery from the observed milestone. The positioning is a bounded integration/accompaniment pilot; no market-share, guaranteed latency, zero-cost or absolute-confidentiality claim is added.
+
+Disclosure review of this authored derivative: no real screenshot, document passage, private source URL, person identifier, model digest, provider endpoint, grant, command, runtime code or partner package is included. The architecture remains V0.4; the evidence date changes. Historical tests and CV data are preserved. This is documentation, not a runtime release.

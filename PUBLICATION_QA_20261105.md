@@ -14,7 +14,7 @@ Lecture visuelle de la présentation et des cartes en grand écran et mobile ; l
 
 ## PDF et sources de CV
 
-Six PDF ont été corrigés dans leurs flux de texte en conservant les pages, les images et les annotations de liens. Les glyphes complémentaires proviennent des fontes incorporées de même famille dans les références autorisées. Les douze pages finales sont rendues et relues ; le contrôle de texte confirme 447/181 et l’absence des anciens effectifs actuels. Les alias publics d’octobre servent exactement les mêmes octets que leurs successeurs datés. Les deux formats compacts périmés sont remplacés par la référence complète de coordination d’octobre, avec un titre d’entrée adapté.
+Six PDF ont été corrigés dans leurs flux de texte en conservant les pages, les images et les annotations de liens. Les glyphes complémentaires proviennent des fontes incorporées de même famille dans les références autorisées. Les douze pages finales sont rendues et relues ; le contrôle de texte confirme 447/181 et l’absence des anciens effectifs actuels. Les sept alias publics antérieurs servent exactement les mêmes octets que leurs six successeurs datés, y compris LLMOps_2026-10-07 vers IA_LLMOps_2026-11-05 ; les anciens octets restent dans l’histoire Git. Les deux formats compacts périmés sont remplacés par la référence complète de coordination d’octobre, avec un titre d’entrée adapté.
 
 | Profil | Pages | Liens conservés | SHA-256 du PDF actuel |
 |---|---:|---:|---|

@@ -13,7 +13,7 @@ Actualisation du **5 novembre 2026**. Les CV présentent le même parcours selon
 | Territoires et transition écologique | Coordonner des partenaires, des terrains écologiques et des projets d’intérêt collectif. | [PDF](assets/Lucas_Benavenuto_CV_Territoires_2026-11-05.pdf) |
 | Habitat participatif et projets coopératifs | Mobiliser facilitation, pédagogie et expérience associative au service de projets coopératifs. | [PDF](assets/Lucas_Benavenuto_CV_HabitatParticipatif_2026-11-05.pdf) |
 
-Les profils facilitation et territoires utilisent désormais la référence complète de coordination multi-acteurs d’octobre, adaptée par son titre de lecture. Les deux anciens formats compacts retirés du portefeuille de référence ne sont plus proposés. Le CV général conserve aussi son [lien stable](assets/Lucas_Benavenuto_CV.pdf). Les anciens noms publics datés d’octobre servent d’alias de compatibilité vers les PDF corrigés ; leurs anciennes versions restent dans Git.
+Les profils facilitation et territoires utilisent désormais la référence complète de coordination multi-acteurs d’octobre, adaptée par son titre de lecture. Les deux anciens formats compacts retirés du portefeuille de référence ne sont plus proposés. Le CV général conserve aussi son [lien stable](assets/Lucas_Benavenuto_CV.pdf). Les anciens noms publics datés d’octobre servent d’alias de compatibilité vers les PDF corrigés ; cela inclut Lucas_Benavenuto_CV_LLMOps_2026-10-07.pdf, désormais identique au CV IA du 5 novembre. Leurs anciennes versions exactes restent dans Git et ne sont plus servies comme fichiers actuels.
 
 ## Les chiffres et leurs dates
 

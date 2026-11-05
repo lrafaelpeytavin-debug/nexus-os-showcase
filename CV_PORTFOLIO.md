@@ -1,41 +1,30 @@
-# CV ciblés de Lucas Rafael Benavenuto
+# CV et parcours de Lucas Rafael Benavenuto
 
-Mise à jour : **9 octobre 2026**. Portfolio public rattaché au [showcase Nexus OS](README.md) ; version de référence et variantes destinées aux recruteurs.
+Actualisation du **5 novembre 2026**. Les CV présentent le même parcours selon le besoin du lecteur ; les expériences ne sont pas réécrites à partir d’un changement d’audience.
 
-## Choisir rapidement
+## Choisir une entrée
 
-| Besoin / fonction recherchée | CV public | Place de Nexus OS |
-| --- | --- | --- |
-| Général — architecture socio-technique | [Télécharger le PDF](assets/Lucas_Benavenuto_CV.pdf) | Articulation transversale socio-technique |
-| IA / LLMOps et systèmes agents | [Télécharger le PDF](assets/Lucas_Benavenuto_CV_IA_LLMOps_2026-10-09.pdf) | Compétence principale en IA / LLMOps |
-| Facilitation et capitalisation | [Télécharger le PDF](assets/Lucas_Benavenuto_CV_Facilitation_2026-10-09.pdf) | Soutien à la mémoire et à la capitalisation |
-| Recherche-action et évaluation | [Télécharger le PDF](assets/Lucas_Benavenuto_CV_RechercheAction_Evaluation_2026-10-09.pdf) | Traçabilité et analyse documentaire |
-| Territoires et transition écologique | [Télécharger le PDF](assets/Lucas_Benavenuto_CV_Territoires_2026-10-09.pdf) | Appui méthodologique complémentaire |
-| Habitat participatif et projets coopératifs | [Télécharger le PDF V0.6, MBway en tête, liens verts cliquables](assets/Lucas_Benavenuto_CV_HabitatParticipatif_2026-10-09.pdf) | Animation de collectifs, AJMF, Carte Ouverte, terrains écologiques et outils de continuité |
+| Entrée | Usage | Document |
+|---|---|---|
+| Général — architecture socio-technique | Relier gouvernance de l’information, IA, recherche-action et coordination de projets. | [PDF](assets/Lucas_Benavenuto_CV_General_2026-11-05.pdf) |
+| IA et systèmes agents | Concevoir des workflows LLM, leurs contrôles, leurs traces et leurs conditions d’utilisation. | [PDF](assets/Lucas_Benavenuto_CV_IA_LLMOps_2026-11-05.pdf) |
+| Facilitation et capitalisation | Accompagner les collectifs, organiser le travail commun et transmettre les acquis. | [PDF](assets/Lucas_Benavenuto_CV_Facilitation_2026-11-05.pdf) |
+| Recherche-action et évaluation | Conduire une enquête, documenter les changements et discuter les résultats avec les acteurs. | [PDF](assets/Lucas_Benavenuto_CV_RechercheAction_Evaluation_2026-11-05.pdf) |
+| Territoires et transition écologique | Coordonner des partenaires, des terrains écologiques et des projets d’intérêt collectif. | [PDF](assets/Lucas_Benavenuto_CV_Territoires_2026-11-05.pdf) |
+| Habitat participatif et projets coopératifs | Mobiliser facilitation, pédagogie et expérience associative au service de projets coopératifs. | [PDF](assets/Lucas_Benavenuto_CV_HabitatParticipatif_2026-11-05.pdf) |
 
-Chaque document présente le même parcours, avec une **priorité de lecture adaptée au métier**. La compétence technique reste accessible dans les profils orientés accompagnement ; les expériences de terrain et de coopération restent visibles dans les profils techniques.
+Les profils facilitation et territoires utilisent désormais la référence complète de coordination multi-acteurs d’octobre, adaptée par son titre de lecture. Les deux anciens formats compacts retirés du portefeuille de référence ne sont plus proposés. Le CV général conserve aussi son [lien stable](assets/Lucas_Benavenuto_CV.pdf). Les anciens noms publics datés d’octobre servent d’alias de compatibilité vers les PDF corrigés ; leurs anciennes versions restent dans Git.
 
-## Chiffres et statut de preuve
+## Les chiffres et leurs dates
 
-- **427 personnes** au sein de Souveraineté en Action et **plus de 160 personnes** ayant accepté le règlement et le Contrat blanc pédagogique, conduisant au rôle « Travail Souverain » : données déclarées par le cofondateur le 9 octobre 2026.
-- **Environ 20 rencontres** et **environ 180 participations comptées hors répétitions**, bilan provisoire communiqué le 9 octobre 2026. La définition de l'unicité (participants distincts, présences, séances) et le total cumulé incluant les répétitions sont encore à consolider.
-- **Historique : 16 ateliers / 169 participations cumulées**, photographie du 16 juillet 2026, conservée avec son périmètre initial. Ces deux modes de mesure ne doivent pas être mélangés ni utilisés pour calculer une progression artificielle.
-- **292 abonnés** à la newsletter [Résilience & Synergie](https://www.linkedin.com/newsletters/la-kle-r%C3%A9silience-synergie-7266945786234519552) au 9 octobre 2026 (déclaration du porteur).
-- Nexus OS : deux séquences instrumentées de **31/31 tests** et **34/34 contrôles** réussis sur les scénarios définis ; corpus inventorié de **14 542 fichiers / 15,37 Go**. Ces résultats ne prouvent pas l'industrialisation d'un système autonome chez un client.
+**Au 5 novembre 2026 : 447 personnes dans la communauté SA ; 181 personnes avec le rôle « Travail Souverain » après validation du cadre**, selon déclaration directe du cofondateur. Le règlement et le Contrat blanc pédagogique constituent le cadre de fonctionnement de SA dans son ensemble. Ces données décrivent le dispositif collectif et ne mesurent pas un impact individuel.
 
-## Gouvernance du portefeuille
+Les CV conservent les bilans historiques : 16 ateliers / 169 participations cumulées au 16 juillet ; environ 20 rencontres / 180 participations après exclusion des répétitions, bilan provisoire d’octobre dont la méthode reste à consolider. Aucune de ces participations n’est remplacée par 181 personnes. Les anciens effectifs 427 / plus de 160 restent dans les versions archivées.
 
-L'offre d'emploi, les preuves de parcours, la représentation du CV et les retours d'un recruteur sont des objets distincts. Un changement d'audience modifie l'ordre et le niveau de détail, pas l'origine des faits.
+Les chiffres de newsletter sont des repères datés d’octobre (292 au 9 octobre ; 295 dans la référence de coordination du 14 octobre), et ne sont pas présentés comme un décompte du 5 novembre. Les résultats instrumentés 31/31 et 34/34 ainsi que l’inventaire de 14 542 fichiers / 15,37 Go conservent leur portée historique. Ils ne prouvent pas l’industrialisation du système.
 
-Les anciennes versions sont préservées dans le suivi documentaire privé ; le dépôt Git conserve l'historique de la version générale et la variante IA précédente. Seuls les PDF sélectionnés pour présentation professionnelle sont publiés. Le règlement et le Contrat blanc pédagogique constituent le cadre de fonctionnement de Souveraineté en Action dans son ensemble.
+## Provenance et conservation
 
-**Statut :** CV rédigés, relus et mis en forme ; les informations chiffrées fournies par le porteur n'ont pas été auditées indépendamment. Les candidatures à des offres précises restent à confirmer séparément.
+Les sources professionnelles autorisées proviennent des références Word/PDF du portefeuille, conservées séparément des nouveaux rendus. Les changements du 5 novembre portent sur les effectifs SA, leur date, la distinction entre unités de compte et le retrait des deux formats compacts périmés. Ils n’ajoutent aucun diplôme, employeur, mission ou résultat de terrain.
 
-## Correction DA et provenance du CV Habitat (09/10/2026)
-La version habitat publiée a été rebâtie sur le fichier Word de référence des CV socio-techniques (portrait, bleu marine, titres verts, blocs vert pâle, deux pages), avec liens Word/PDF cliquables vérifiés. Les expériences AJMF 2020–2021, Terre & Cité/Carte Ouverte, P'tit Brin de Paille, Kalos, La Salle Igny, Verdicité et MBway sont situées, sans revendiquer d'expertise immobilière non démontrée. Les sources biographiques privées restent dans Drive et Gmail ; elles ne sont pas exportées vers le showcase.
-
-### Correction des liens — CV Habitat V0.5 (09/10/2026)
-Le CV Habitat, à son URL PDF publique inchangée, emploie désormais une mise en évidence verte lisible : texte vert foncé, soulignement et surlignage vert clair. La version Word contient des hyperliens OOXML externes, et le PDF exporté comporte 24 annotations de liens cliquables réparties sur deux pages, pour 15 destinations distinctes. Vérification par extraction indépendante des annotations PDF et contrôle visuel des deux pages. Les principaux titres d'expériences renvoient à des sites publics pertinents. Formulation SA précisée : environ 180 participations après exclusion des répétitions, sans les assimiler à 180 personnes uniques. L'ancienne version reste traçable dans Git et Drive.
-
-### Rectification du classement — CV Habitat V0.6 (09/10/2026)
-Après retour du candidat, **MBway — intervenant en M1 depuis septembre 2026** est placé en premier dans « Expériences et projets collectifs », suivi de SA (depuis décembre 2025), La KLE/Nexus OS (depuis 2024) et l'AJMF. L'entrée MBway située auparavant en dernière position du parcours de terrain est déplacée, non dupliquée. Aucun fait de parcours ou diplôme n'a été ajouté ; la DA, le portrait, les liens verts soulignés et le surlignage sont conservés. QA : PDF deux pages, 24 annotations URI actives, destinations inchangées, vérification des deux rendus, contrôle ordinal MBway avant SA dans le PDF. URL publique préservée.
+Les CV publics contiennent des coordonnées professionnelles et des liens déjà destinés à la diffusion ; les pièces biographiques et les échanges de candidature privés restent exclus. [Contrôle des textes, liens et rendus](PUBLICATION_QA_20261105.md).

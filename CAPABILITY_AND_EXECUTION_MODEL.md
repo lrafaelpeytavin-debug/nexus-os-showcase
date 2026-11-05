@@ -1,5 +1,15 @@
 # Capability & Execution Model — Public-safe
 
+## Lecture actuelle au 5 novembre 2026
+
+Le parcours effectivement observé dans le cockpit est une conversation générale puis documentaire : question authentifiée, sources accessibles dans l’espace, génération locale, réponse candidate et trois passages consultables. Les reçus techniques privés relient ce cas à Ollama local. La vérification exhaustive des versions, les autres profils et la reprise autonome restent à qualifier.
+
+Les couches et ressources décrites ci-dessous constituent le modèle d’architecture et les travaux de l’atelier. Leur présence dans ce schéma ne signifie pas leur activation dans le cockpit. En particulier, le routage adaptatif de plusieurs modèles, la mémoire Drive étendue et la continuité Telegram/Discord ne sont pas des capacités livrées par ce cas.
+
+[Preuves et états de maturité](PROOF_OF_USE.md) · [Cas observé](COCKPIT_DOCUMENTARY_PILOT.md)
+
+## Référence architecturale conservée d’octobre 2026
+
 Status: `PUBLIC_SAFE_SHOWCASE_V0.4`  
 Date: 2026-10-05
 

@@ -1,135 +1,46 @@
-# Selected Proof-of-Use — Public-safe snapshot
+# Preuves d’usage et maturité de Nexus OS
 
-Status: `PUBLIC_SAFE_SHOWCASE_V0.4`  
-Date: 2026-10-05  
-Evidence update: 2026-11-05
+État public au **5 novembre 2026**. Une preuve est rattachée à un usage et à une date ; les résultats historiques restent conservés sans être requalifiés comme essais actuels.
 
-This page separates **observed evidence**, **implemented alpha signals** and **current validation questions**. It does not treat architectural intentions as completed proof.
+## Premier parcours documentaire du cockpit
 
-## Documentary cockpit milestone — 5 November 2026
+Une question réelle de préparation du conseil d’administration a reçu une réponse candidate visible dans la session authentifiée du porteur. Les trois passages utilisés ont été ouverts pour comparaison. Les reçus techniques privés relient cette génération au fournisseur Ollama local. L’observation visuelle montre une concordance du sens ; l’égalité complète avec les versions sources reste une vérification distincte.
 
-A real authenticated user asked a useful question about a council preparation document and received a candidate answer with three inspectable passages. Private technical receipts associate this case with local Ollama inference. The user then opened the passages for comparison. Full source-version fidelity, reconnection, broader Drive memory and multi-channel continuity remain separate validation steps. This is one situated usage case, not a latency or multi-user benchmark.
+[Cas détaillé et prochaine épreuve](COCKPIT_DOCUMENTARY_PILOT.md).
 
-[Read the case, its architecture and the next user trial](COCKPIT_DOCUMENTARY_PILOT.md).
+| Dimension | Établi dans ce cas | À qualifier ensuite |
+|---|---|---|
+| Conversation | Réponses générales et documentaire reçues | Reprise autonome et continuité après interruption |
+| Sources | Trois passages consultables | Fidélité de version et couverture complète |
+| Exécution | Génération locale reliée à des reçus privés | Latence, qualité comparée et charge simultanée |
+| Autorisations | Parcours dans une session authentifiée | Épreuve avec d’autres principaux et espaces |
+| Mémoire | Contexte documentaire offert par le cockpit | Drive étendu et admission des nouvelles sources |
+| Canaux | Cockpit utilisé | Nouvelle preuve utile Telegram/Discord attendue |
+| Modèles | Ressource locale employée pour ce cas | Routage adaptatif par tâche à intégrer et mesurer |
 
-## 1. Instrumented testing
+## Essais instrumentés historiques
 
-Two public-safe proof points currently used in the professional CV:
+Deux séquences déjà présentes dans le showcase et les CV en octobre 2026 ont atteint **31/31 tests CTX-1A.1** et **34/34 contrôles de harness** sur leurs scénarios définis. Elles sont conservées comme preuves bornées. Elles ne constituent ni un benchmark nouveau au 5 novembre, ni une preuve de disponibilité du cockpit actuel, ni une comparaison gagnée contre un autre système.
 
-- `31/31` CTX-1A.1 tests validated in one instrumented sequence;
-- `34/34` harness controls validated in another evaluation sequence.
+## Travail documentaire historique
 
-These numbers show that bounded test sequences were executed successfully. They do not establish that Nexus is a finished product or that it outperforms alternative approaches.
+Un inventaire de **14 542 fichiers / 15,37 Go** a été structuré dans l’atelier Nexus/KLE. Ce volume donne un ordre de grandeur du travail documentaire, sans prouver que tous ces fichiers sont accessibles au Nexus du cockpit. Il ne mesure pas un débit d’inférence ou une qualité de réponse.
 
-## 2. Documentary-scale work
+## Réutilisation dans les projets
 
-A Nexus/KLE documentary workflow has been used to inventory and structure a heterogeneous working corpus of:
+Les dossiers de coopération, cours, traces de collectifs et productions pour différents publics ont exercé les méthodes de dérivation et de capitalisation. Les [cas de recherche-action](RESEARCH_ACTION_CASES.md) et la [trajectoire des interfaces](SITES_INTEROPERABILITY_AND_UX.md) gardent leurs dates, résultats négatifs et questions ouvertes. Une sortie produite, un composant de code, une installation et une reprise d’usage sont des états différents.
 
-- `14,542 files`;
-- `15.37 GB`.
+## Repères collectifs et mesures distinctes
 
-The volume is not presented as a performance metric in itself. The proof point is the documentary complexity: keeping evolving material retrievable, attributable and reconstructible across multiple project contexts and file types.
+- **5 novembre 2026 : 447 personnes dans la communauté SA et 181 avec le rôle « Travail Souverain » après validation du cadre**, déclaration actuelle du cofondateur.
+- **9 octobre 2026 : 427 personnes et plus de 160 rôles/validations**, photographie historique remplacée pour les effectifs actuels, conservée dans l’histoire.
+- **9 octobre 2026 : environ 20 rencontres et 180 participations après exclusion des répétitions**, bilan provisoire dont la méthode reste à consolider.
+- **16 juillet 2026 : 16 ateliers et 169 participations cumulées**, périmètre initial conservé.
 
-The workflow supports retrieval, provenance, versioning, lineage and capitalisation over time so later outputs and decisions can remain connected to the material from which they were derived.
+Les participations aux ateliers, les membres de communauté et les titulaires d’un rôle ne sont pas la même unité. Aucun taux de progression ou effet individuel n’en est déduit.
 
-## 3. Governed derivation in real work
+## Évaluation à poursuivre
 
-The architecture has been exercised across several kinds of work:
+La prochaine épreuve est une tâche utile effectuée par un autre membre : retrouver le fil, vérifier les sources, corriger une proposition et continuer. Une comparaison avec une solution plus simple pourra ensuite mesurer l’effort humain de correction, le temps de cycle, les pertes de provenance et la facilité de reprise sur les mêmes sources et les mêmes critères. Ces comparaisons sont prévues, pas réalisées.
 
-- project and partner dossier structuring;
-- pedagogy and course continuity;
-- collective-intelligence and research-action traces;
-- funding and application workflows;
-- document transformation and audience-specific derivatives;
-- documentation and governance of human/AI work.
-
-A recurring operating discipline is to keep source artefacts distinct from adapted derivatives and to preserve enough lineage to reconstruct how a later output was produced.
-
-Cross-domain reuse is an observed usage signal. A comparative performance advantage is still under evaluation.
-
-## 4. Public-facing contexts
-
-Three public KLE surfaces make part of the surrounding work visible:
-
-- **La KLE** — https://lakle.fr — research-action, pedagogy and cooperation ecosystem;
-- **Souveraineté en Action** — https://sa.lakle.fr — experimentation and popular-education field;
-- **Enquêtes du Vivant** — https://enquetesduvivant.lakle.fr — public pedagogical inquiry interface, with a public beta launched on 20 May 2026.
-
-Nexus-related documentary, research-action, memory and derivation workflows have been developed across these kinds of contexts. Each public surface retains its own function and authority.
-
-## 5. What a bounded workflow looks like
-
-Public-safe example:
-
-```text
-raw project or workshop material
-→ source / context / authority qualification
-→ observation vs interpretation vs hypothesis
-→ relevant capability or governed extension selection
-→ model / tool execution
-→ candidate synthesis or deliverable
-→ human correction
-→ audience-appropriate derivative
-→ lineage and learning preserved
-→ explicit action or follow-up when relevant
-```
-
-This illustrates the operating discipline without publishing private engine code or reconstructive technical contracts.
-
-## 6. What V0.4 adds to the evidence model
-
-V0.4 does not add a new headline benchmark result. It improves what is being tested.
-
-The architecture now explicitly distinguishes:
-
-- reusable core capability from project-specific method or workflow extensions;
-- source authority from storage location;
-- model execution from decision authority;
-- generated output from admitted memory;
-- implementation evidence from usage evidence and research hypotheses.
-
-These distinctions are already used to govern work. Their comparative benefit is still being measured.
-
-## 7. Comparative validation now being prepared
-
-A key next experiment is to compare a governed Nexus workflow with a credible lower-governance baseline, for example a frontier model working directly from a less structured project folder.
-
-Candidate measures include:
-
-- human correction effort;
-- cycle time;
-- duplicate or contradictory outputs;
-- provenance loss;
-- accidental authority promotion;
-- reconstruction effort after time has passed;
-- continuity when a model, tool or method changes.
-
-This comparison is a planned validation path, not a completed benchmark.
-
-## 8. Epistemic limits
-
-The current evidence supports statements such as:
-
-- Nexus has executable and testable alpha components in private development;
-- governance, provenance and human validation are first-class design constraints;
-- the architecture has been reused across multiple project contexts;
-- documentary memory and derivation rules have been exercised in real work;
-- heterogeneous execution and governed extension packaging are specified and under active validation.
-
-The current evidence does not support claims that Nexus is a finished autonomous platform, has proven market superiority, has proven causal economic impact, or has fully validated every conceptual component.
-
-Positive feedback from a recruiter, partner, funder or external model is treated as a **reception signal**, not as proof of product validity.
-
-The project explicitly separates implementation evidence, usage evidence, hypotheses and future claims.
-
-## 9. Contexte d'usage humain — repères SA au 9 octobre 2026
-
-Souveraineté en Action, terrain de recherche-action et d'éducation populaire distinct de Nexus OS, compte selon la déclaration de son cofondateur **427 personnes** dans la communauté. Plus de **160 personnes** ont accepté le règlement et le Contrat blanc pédagogique et disposent du rôle d'entrée **« Travail Souverain »**. Le règlement et ce contrat forment le cadre de fonctionnement de Souveraineté en Action dans son ensemble. La newsletter de La KLE « Résilience & Synergie » compte **292 abonnés** à cette date déclarée. Le bilan SA du **16 juillet 2026** recense **16 ateliers** et **169 participations cumulées**.
-
-Ces chiffres caractérisent un périmètre collectif et une architecture d'engagement ; ils ne constituent pas une mesure d'impact, une preuve d'autonomie effective des participants ou un résultat causé par Nexus. La provenance des données est déclarative et les périodes restent distinctes. Cette mention aide les lecteurs des CV à interpréter les références SA/KLE.
-
-## 10. Recherche-action : résultats situés et corrections
-
-[Les cas anonymisés](RESEARCH_ACTION_CASES.md) complètent les signaux techniques par trois séquences documentaires : critique technique et restriction d’une généralisation ; capitalisation d’ateliers avec relecture professionnelle attendue ; comparaison pédagogique sur une seule situation avec bénéfice limité et traitement supplémentaire non exécuté. Le [terrain des sites](SITES_INTEROPERABILITY_AND_UX.md) documente les réalisations web associées.
-
-Cette passe du 14 octobre 2026 a relu les pièces de travail ; elle n’a pas rejoué les expériences. Les exécutions rapportées restent distinctes des reproductions indépendantes. Les résultats n’établissent pas un impact causal, une autonomie acquise ou une validation du runtime complet.
+Les preuves privées originales restent contrôlées. Ce dérivé public ne reproduit ni passages du corpus, ni capture de session, ni identifiants personnels, ni contrat d’exécution privé.

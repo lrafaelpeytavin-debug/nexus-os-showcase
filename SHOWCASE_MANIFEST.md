@@ -1,4 +1,24 @@
-# Showcase Manifest
+# Manifeste de publication
+
+## Actualisation cohérente du 5 novembre 2026
+
+Cette passe documentaire remplace l’ordre de présentation : usage cockpit observé, fonctionnement, preuves datées, prochaines validations, terrain collectif et parcours professionnel. README, HTML, registre des preuves et portefeuille CV portent le même état. L’architecture V0.4 reste la référence de conception ; aucune version du moteur n’est modifiée.
+
+Les effectifs actuels déclarés par Lucas sont 447 personnes dans la communauté SA et 181 avec le rôle « Travail Souverain » après validation du cadre. Les participations historiques aux ateliers et les chiffres anciens gardent leur unité et leur date. Les cartes de CV décrivent les usages professionnels, pas les versions de mise en page.
+
+Les PDF actuels sont des dérivés datés du 5 novembre. Leurs sources antérieures sont conservées ; les alias publics d’octobre sont maintenus pour les liens existants. Les deux anciens formats compacts facilitation/territoires sont remplacés par la référence complète autorisée de coordination. Les textes d’architecture sont relus avec un état actuel distinct de leurs couches visées.
+
+Cette publication n’ajoute aucune capture réelle, extrait documentaire privé, identifiant personnel de session, URL source privée, digest de modèle, commande, contrat d’autorité, code d’exécution ou package partenaire. Les preuves publiques restent des dérivés de portée limitée.
+
+[QA de la publication](PUBLICATION_QA_20261105.md) · [Portefeuille actuel](CV_PORTFOLIO.md) · [Preuves actuelles et historiques](PROOF_OF_USE.md)
+
+---
+
+## Historique des publications conservé
+
+Les mentions « actuel », « désormais » ou les chiffres figurant dans les entrées suivantes sont à lire à leur date d’origine. Elles ne remplacent pas l’état du 5 novembre ci-dessus.
+
+### Manifeste initial
 
 Status: `PUBLIC_SAFE_SHOWCASE_V0.4`  
 Date: 2026-10-05

@@ -1,0 +1,38 @@
+{
+  "General": {
+    "sourcePdfSHA256": "76b6502d2c3dacbec1cf103691336f6ae8ba90501b9819cdb9b311b63b11aca4",
+    "pdfSHA256": "21354456d674e1c6e61e21503bddc07be8b190d4147464f6545645b4e2807128",
+    "pages": 2,
+    "links": 11
+  },
+  "IA_LLMOps": {
+    "sourcePdfSHA256": "ad1de5a5d814b906f8bce415c3f4d80468a9da5d629c9294da3fdbd6f18d048c",
+    "pdfSHA256": "c49e7e3b3b937790a9f9d18b70bda9a079872ebd81f9822f0439dcdd93d1bbc6",
+    "pages": 2,
+    "links": 4
+  },
+  "RechercheAction_Evaluation": {
+    "sourcePdfSHA256": "b38f91fd0d4dbd87093d1fbe8c84af11f67d93efcd7309ca65d9e097e986bf52",
+    "pdfSHA256": "73295770946b628f2a955aaf6e39245195924f594094c372872c42ff213a8427",
+    "pages": 2,
+    "links": 5
+  },
+  "HabitatParticipatif": {
+    "sourcePdfSHA256": "74c928ab10d0cabf8dcc1d737b11cdc7450fc9644a47622eefb9cf1b81ae4cdd",
+    "pdfSHA256": "e304aa7884891cf13abe9ab627fca4d7043ca194775ac4bfe5d36d2897904d22",
+    "pages": 2,
+    "links": 24
+  },
+  "Facilitation": {
+    "sourcePdfSHA256": "b469fe5df7816fd20d8b55b317c4ecb2efde365048c6d0611356793302754d7c",
+    "pdfSHA256": "cc91c299cc2f779c847da0afa5c1b9ae78af3e8bcb2a920508f8d7a3ec3959f3",
+    "pages": 2,
+    "links": 18
+  },
+  "Territoires": {
+    "sourcePdfSHA256": "b469fe5df7816fd20d8b55b317c4ecb2efde365048c6d0611356793302754d7c",
+    "pdfSHA256": "519679515aef554078af455b81d0ef33f3dbbc7cbb8892685e68f8b8b356511a",
+    "pages": 2,
+    "links": 18
+  }
+}

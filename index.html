@@ -1,156 +1,53 @@
 <!doctype html>
-<html lang="fr">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Nexus OS — Public Showcase V0.4</title>
+<html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Nexus OS : un assistant documentaire éprouvé dans le cockpit de La KLE, une architecture de travail humain–IA et des preuves situées.">
+<title>Nexus OS — usages, architecture et preuves</title>
 <style>
-:root{--ink:#1f1f1f;--muted:#666;--line:#ddd;--soft:#f5f5f2}
-body{max-width:1040px;margin:48px auto;padding:0 22px;font-family:system-ui,-apple-system,sans-serif;line-height:1.6;color:var(--ink)}
-h1{font-size:2.7rem;margin:.35rem 0 .5rem}h2{margin-top:2.3rem}h3{margin:.2rem 0 .4rem}
-p{margin:.55rem 0}.lead{font-size:1.18rem;max-width:880px}.muted{color:var(--muted)}
-code,pre{background:var(--soft);border-radius:10px}pre{padding:18px;overflow:auto}
-.badge{display:inline-block;padding:5px 10px;border:1px solid #bbb;border-radius:999px;font-size:.84rem}
-.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:1rem}
-.grid4{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-top:1rem}
-.grid2{display:grid;grid-template-columns:repeat(2,1fr);gap:14px;margin-top:1rem}
-.card{border:1px solid var(--line);border-radius:14px;padding:18px;background:#fff}.card p{font-size:.96rem}
-.flow{display:flex;gap:10px;align-items:stretch;flex-wrap:wrap;margin:1rem 0}
-.step{flex:1 1 120px;border:1px solid var(--line);border-radius:12px;padding:12px;background:var(--soft);font-size:.9rem}
-.arrow{align-self:center;color:var(--muted)}
-.note{border-left:3px solid #aaa;padding:4px 0 4px 14px;margin:1rem 0}
-a{color:inherit}hr{border:0;border-top:1px solid var(--line);margin:2.3rem 0}
-@media(max-width:820px){.grid,.grid4,.grid2{grid-template-columns:1fr}.arrow{display:none}h1{font-size:2.2rem}}
-</style>
-</head>
-<body>
-<span class="badge">PUBLIC_SAFE_SHOWCASE_V0.4 · CV 2026-10-09</span>
-<h1>Nexus OS</h1>
-<p class="lead">Architecture humain/IA pour gouverner la transformation d’une matière projet hétérogène en travail structuré, traçable, réutilisable et reconstructible.</p>
-<p class="muted">Nexus se situe au-dessus des modèles et outils : il organise la relation entre sources, autorité, capacités, exécution, validation humaine, dérivations et mémoire.</p>
-
-<section class="card" aria-label="Auteur et CV">
-  <h2 style="margin-top:0">Lucas Rafael Benavenuto — CV et profils</h2>
-  <p>Fondateur de La KLE et cofondateur de Souveraineté en Action. Ingénierie socio-technique, systèmes IA, recherche-action, formation, facilitation et projets territoriaux : un même parcours, plusieurs angles d'accompagnement.</p>
-  <p>Le règlement et le <strong>Contrat blanc pédagogique</strong> constituent le cadre de fonctionnement de <strong>Souveraineté en Action dans son ensemble</strong>.</p>
-  <p><strong>Repères au 9 octobre 2026 :</strong> communauté SA de 427 personnes, dont plus de 160 avec le rôle d'engagement « Travail Souverain » après acceptation du cadre pédagogique ; <a href="https://www.linkedin.com/newsletters/la-kle-r%C3%A9silience-synergie-7266945786234519552">newsletter « Résilience &amp; Synergie »</a>, 292 abonnés. Environ 20 rencontres et 180 participations dénombrées hors répétitions sont également déclarées, avec méthode de comptage encore à consolider. Ces données décrivent le dispositif collectif, pas un impact individuel.</p>
-  <h3>Choisir le CV adapté au poste</h3>
-  <div class="grid" aria-label="Six CV ciblés">
-    <article class="card"><h3>Général — architecture socio-technique</h3><p>Profil transversal : gouvernance de l'information, IA, recherche-action, coordination et coopération.</p><p><a href="assets/Lucas_Benavenuto_CV.pdf">Consulter le CV (PDF)</a></p></article>
-    <article class="card"><h3>IA / LLMOps et systèmes agents</h3><p>Architecture d'agents et de workflows LLM, QA, traçabilité, critères d'acceptation et gouvernance.</p><p><a href="assets/Lucas_Benavenuto_CV_IA_LLMOps_2026-10-09.pdf">Consulter le CV (PDF)</a></p></article>
-    <article class="card"><h3>Facilitation et capitalisation</h3><p>Accompagnement de collectifs, éducation populaire, formation et mémoire des décisions.</p><p><a href="assets/Lucas_Benavenuto_CV_Facilitation_2026-10-09.pdf">Consulter le CV (PDF)</a></p></article>
-    <article class="card"><h3>Recherche-action et évaluation</h3><p>Enquête participative, analyse des changements, capitalisation et transmission.</p><p><a href="assets/Lucas_Benavenuto_CV_RechercheAction_Evaluation_2026-10-09.pdf">Consulter le CV (PDF)</a></p></article>
-    <article class="card"><h3>Territoires et transition écologique</h3><p>Animation territoriale, agroécologie, partenariats et conduite de projets.</p><p><a href="assets/Lucas_Benavenuto_CV_Territoires_2026-10-09.pdf">Consulter le CV (PDF)</a></p></article>
-    <article class="card"><h3>Habitat participatif et projets coopératifs</h3><p>CV V0.6 dans la même DA que le CV général, MBway en premier parmi les expériences, avec liens verts surlignés et cliquables : facilitation, AJMF, projets territoriaux, pédagogie, méthode documentaire et IA.</p><p><a href="assets/Lucas_Benavenuto_CV_HabitatParticipatif_2026-10-09.pdf">Consulter le CV harmonisé (PDF)</a></p></article>
-  </div>
-  <p class="muted">CV mis à jour le 09/10/2026 · <a href="CV_PORTFOLIO.md">Méthode de choix et provenance</a> · Le CV général demeure l'entrée de référence.</p>
-</section>
-
-<div class="flow" aria-label="Chaîne Nexus">
-  <div class="step"><strong>1. Sources</strong><br>matière, origine, autorité</div>
-  <div class="arrow">→</div>
-  <div class="step"><strong>2. Qualification</strong><br>contexte, preuve, statut</div>
-  <div class="arrow">→</div>
-  <div class="step"><strong>3. Capacité</strong><br>cœur ou extension gouvernée</div>
-  <div class="arrow">→</div>
-  <div class="step"><strong>4. Exécution</strong><br>modèle ou outil adapté</div>
-  <div class="arrow">→</div>
-  <div class="step"><strong>5. Gate humaine</strong><br>QA, correction, décision</div>
-  <div class="arrow">→</div>
-  <div class="step"><strong>6. Mémoire</strong><br>filiation, action, reprise</div>
-</div>
-
-<section aria-labelledby="cockpit-pilot-title">
-<h2 id="cockpit-pilot-title">Un assistant documentaire dans le travail du CA</h2>
-<p>Le 5 novembre 2026, une question réelle dans le cockpit interne a produit une réponse candidate avec trois passages cités consultables. Le parcours relie les documents accessibles à la personne, une génération locale et une proposition à reprendre pour le travail collectif.</p>
-<p>Les prochaines étapes portent sur la reprise des échanges, les délais mesurés et l’usage autonome par un autre membre.</p>
-<p><a href="COCKPIT_DOCUMENTARY_PILOT.md">Voir le cas concret, son architecture et ses prochaines étapes</a></p>
-</section>
-
-<h2>Ce que V0.4 clarifie</h2>
-<div class="grid2">
-  <section class="card">
-    <h3>Cœur stable + extensions gouvernées</h3>
-    <p>Les fonctions transversales de provenance, mémoire, routage, dérivation et QA restent séparées des méthodes métier, méthodes partenaires ou overlays propres à un projet. Une extension garde son périmètre, sa source, sa version, son autorité et son statut de validation.</p>
-  </section>
-  <section class="card">
-    <h3>Modèles comme ressources d’exécution</h3>
-    <p>Un modèle frontière, un modèle local, du code déterministe ou une ressource spécialisée peuvent exécuter une capacité. Changer de ressource d’exécution ne doit pas déplacer silencieusement l’autorité du projet ou les règles de mémoire.</p>
-  </section>
-  <section class="card">
-    <h3>Autorité distincte du stockage</h3>
-    <p>Un fichier copié, une synthèse ou une trace de recherche-action peut être utile sans devenir automatiquement la source de vérité. Nexus suit l’origine, la dérivation et les conditions de réutilisation.</p>
-  </section>
-  <section class="card">
-    <h3>De l’information jusqu’à l’action</h3>
-    <p>La chaîne étudiée dépasse la recherche documentaire : information → provenance → statut épistémique → relations → autorité → dérivation → action → trace.</p>
-  </section>
-</div>
-
-<h2>Pourquoi regarder Nexus OS ?</h2>
-<div class="grid">
-  <section class="card">
-    <h3>Recruteur</h3>
-    <p>Compétences concrètes en architecture de systèmes humain/IA, workflows agentiques, gouvernance de l’information, QA, mémoire projet, routage de capacités et prototypage.</p>
-  </section>
-  <section class="card">
-    <h3>Partenaire</h3>
-    <p>Une architecture adaptable à un projet réel qui rend explicites les sources, les méthodes, les validations, les contraintes de déploiement et la continuité documentaire.</p>
-  </section>
-  <section class="card">
-    <h3>Financeur</h3>
-    <p>Une trajectoire R&amp;D révisable : composants alpha, tests instrumentés, preuves d’usage, architecture d’extensions, limites et prochaines validations comparatives.</p>
-  </section>
-</div>
-
-<h2>Un workflow public-safe</h2>
-<pre>matière brute d’un atelier, dossier ou projet
-→ source, contexte et autorité qualifiés
-→ observation / interprétation / hypothèse distinguées
-→ capacité ou extension pertinente sélectionnée
-→ exécution avec le modèle ou l’outil adapté
-→ livrable candidat
-→ correction et validation humaines
-→ dérivé adapté au bon public
-→ filiation, décision et apprentissage conservés
-→ action ou suivi lorsque nécessaire</pre>
-
-<h2>Frontier models, local-first et outils</h2>
-<p>Le local-first est une stratégie de déploiement utile lorsque confidentialité, autonomie, coût ou contraintes d’infrastructure le justifient. Les modèles frontière restent pertinents lorsque leurs capacités apportent davantage de valeur. Nexus cherche à conserver la gouvernance du workflow lorsque la ressource d’exécution change.</p>
-<div class="note"><strong>Principe :</strong> localisation du calcul ≠ autorité sur le projet ; sortie du modèle ≠ mémoire admise ; capacité ≠ modèle qui l’exécute.</div>
-
-<h2>Écosystème public : quatre objets, quatre fonctions</h2>
-<div class="grid4">
-  <section class="card"><h3>La KLE</h3><p>Cadre et écosystème de recherche-action, pédagogie et coopération.</p><p><a href="https://lakle.fr">lakle.fr</a></p></section>
-  <section class="card"><h3>Souveraineté en Action</h3><p>Terrain d’expérimentation et d’éducation populaire autour des pratiques collectives et de la gouvernance.</p><p><a href="https://sa.lakle.fr">sa.lakle.fr</a></p></section>
-  <section class="card"><h3>Enquêtes du Vivant</h3><p>Interface publique d’enquête pédagogique sur des situations collectives.</p><p><a href="https://enquetesduvivant.lakle.fr">enquetesduvivant.lakle.fr</a></p></section>
-  <section class="card"><h3>Nexus OS</h3><p>Couche de mémoire, provenance, dérivation, QA et orchestration humain/IA développée à travers ces contextes.</p></section>
-</div>
-
-<section aria-label="Recherche-action et terrains documentés">
-<h2>Des terrains qui font évoluer la conception</h2>
-<p>La boucle de recherche-action relie situations, observation, critique croisée, essais, révisions et transmission. Trois cas anonymisés documentent une hypothèse technique corrigée, la capitalisation d’une pratique d’animation et une comparaison pédagogique au résultat limité.</p>
-<p>Les sites apportent un terrain de réalisation : circulation de ressources attribuées, liens entre rencontres et restitutions, fiches adaptées et retours utilisateurs facultatifs.</p>
-<p><a href="https://github.com/lrafaelpeytavin-debug/nexus-os-showcase/blob/main/RESEARCH_ACTION_CASES.md">Lire les cas de recherche-action et leurs limites</a> · <a href="https://github.com/lrafaelpeytavin-debug/nexus-os-showcase/blob/main/SITES_INTEROPERABILITY_AND_UX.md">Explorer l’interopérabilité et l’UX des sites</a></p>
-<p class="muted">Mise à jour documentaire du 14 octobre 2026. Les essais rapportés ne sont pas rejoués ici ; les propositions et les relectures attendues restent identifiées. Sources et données partenaires conservées dans leurs espaces contrôlés.</p>
-</section>
-
-<h2>Quelques preuves d’usage</h2>
-<p><strong>31/31</strong> tests CTX-1A.1 validés sur une séquence instrumentée ; <strong>34/34</strong> contrôles de harness validés sur une autre ; <strong>14 542 fichiers / 15,37 Go</strong> structurés dans un corpus documentaire hétérogène utilisé pour recherche, provenance, versioning, filiation et capitalisation.</p>
-<p>Le volume de stockage sert ici à caractériser un terrain documentaire réel. L’enjeu éprouvé est la capacité à maintenir une matière projet évolutive retrouvable, attribuable et reconstructible dans le temps.</p>
-
-<h2>Ce qui est éprouvé, ce qui reste à tester</h2>
-<p>Des composants alpha, des harnesses et des workflows documentaires sont exécutables ou utilisés en travail réel. L’empaquetage de capacités réutilisables, l’interopérabilité des extensions et l’exécution hétérogène restent des chantiers R&amp;D actifs.</p>
-<p>La prochaine validation importante consiste à comparer un workflow Nexus gouverné à une baseline crédible, par exemple un modèle frontière travaillant directement sur un dossier projet moins structuré, en observant correction humaine, temps de cycle, doublons, perte de provenance et effort de reconstruction.</p>
-
-<h2>Frontière de divulgation</h2>
-<p>Le showcase expose les principes nécessaires à l’évaluation. Les contrats reconstructifs, snapshots de moteurs, mappings internes, packages partenaires, traces privées et détails opérationnels restent hors du dépôt public.</p>
-
-<hr>
-<h2>Documentation V0.4</h2>
-<p><a href="ARCHITECTURE_OVERVIEW.md">Architecture overview</a> · <a href="CAPABILITY_AND_EXECUTION_MODEL.md">Capability &amp; execution model</a> · <a href="PROOF_OF_USE.md">Proof of use</a> · <a href="SECURITY_AND_BOUNDARIES.md">Security &amp; boundaries</a></p>
-
-<h2>Écosystème</h2>
-<p><a href="https://lakle.fr">La KLE</a> · <a href="https://sa.lakle.fr">Souveraineté en Action</a> · <a href="https://enquetesduvivant.lakle.fr">Enquêtes du Vivant</a></p>
-</body>
-</html>
+:root{--ink:#172e36;--muted:#4f666c;--green:#23624e;--line:#cddbd5;--paper:#f7f7f1;--soft:#eaf3ed}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--paper);color:var(--ink);font:17px/1.65 system-ui,-apple-system,sans-serif}
+main,header,footer{max-width:1120px;margin:auto;padding:28px}header{padding-top:52px}h1{font-size:clamp(2.7rem,6vw,4.8rem);line-height:1.05;letter-spacing:-.045em;margin:.5em 0 .35em}h2{font-size:clamp(1.6rem,3vw,2.2rem);line-height:1.25;margin:0 0 20px}h3{font-size:1.12rem;line-height:1.4;margin:0 0 10px}p{margin:.7em 0}a{color:var(--green);text-underline-offset:4px}a:hover{text-decoration-thickness:2px}a:focus-visible,summary:focus-visible{outline:3px solid #ac581d;outline-offset:5px}.skip{position:absolute;left:20px;top:-100px;background:white;padding:10px}.skip:focus{top:10px}.eyebrow{text-transform:uppercase;letter-spacing:.12em;font-size:.78rem;font-weight:750;color:var(--green)}.lead{font-size:1.32rem;max-width:850px}.muted,small{color:var(--muted)}nav{display:flex;flex-wrap:wrap;gap:12px 24px;border-block:1px solid var(--line);padding:18px 0;margin-top:30px}nav a{font-weight:650}section{scroll-margin-top:24px;margin-bottom:64px}.panel,.card{background:white;border:1px solid var(--line);border-radius:18px;padding:26px}.panel{padding:clamp(24px,4vw,44px)}.highlight{background:var(--soft)}.grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px}.two{grid-template-columns:repeat(2,minmax(0,1fr))}.card{display:flex;flex-direction:column}.card a{margin-top:auto;padding-top:12px}.flow{list-style:none;display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;padding:0;counter-reset:chain}.flow li{padding:18px;border-top:3px solid var(--green);background:var(--soft);counter-increment:chain}.flow li:before{content:counter(chain) " · ";font-weight:750}.proof{border-left:4px solid var(--green);padding:3px 0 3px 20px;margin:24px 0}.table-wrap{overflow-x:auto}table{border-collapse:collapse;width:100%;font-size:.95rem}th,td{padding:16px;text-align:left;vertical-align:top;border-bottom:1px solid var(--line)}th{background:var(--soft)}.tag{display:inline-block;background:var(--soft);border:1px solid var(--line);padding:4px 10px;border-radius:30px;font-size:.8rem}details{margin-top:22px}summary{cursor:pointer;font-weight:650}footer{border-top:1px solid var(--line);font-size:.9rem;padding-bottom:50px}.links{display:flex;gap:16px;flex-wrap:wrap}
+@media(max-width:850px){.grid{grid-template-columns:repeat(2,minmax(0,1fr))}.flow{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:560px){body{font-size:16px}main,header,footer{padding:20px}header{padding-top:32px}.grid,.two,.flow{grid-template-columns:1fr}section{margin-bottom:42px}.panel,.card{padding:22px}th,td{padding:12px;min-width:145px}nav{gap:10px 18px}}
+</style></head><body><a class="skip" href="#contenu">Aller au contenu</a>
+<header><p class="eyebrow">Nexus OS · La KLE · actualisé le 5 novembre 2026</p>
+<h1>Une IA qui travaille<br>avec les sources du projet.</h1>
+<p class="lead">Préparer une réunion, clarifier une proposition, retrouver ce qui l’appuie. Nexus relie une demande, des documents accessibles et une réponse que les personnes peuvent vérifier et reprendre.</p>
+<p class="muted">Un premier usage documentaire est démontré dans le cockpit interne de La KLE. L’architecture, les expériences antérieures et les prochaines validations sont présentées avec leur portée.</p>
+<nav aria-label="Dans cette présentation"><a href="#usage">L’usage démontré</a><a href="#architecture">Le fonctionnement</a><a href="#preuves">Les preuves</a><a href="#perspectives">La suite</a><a href="#parcours">Parcours et CV</a></nav></header>
+<main id="contenu">
+<section id="usage" class="panel highlight"><span class="tag">Pilote documentaire · usage confirmé le 5 novembre 2026</span>
+<h2>Du document à la préparation du conseil d’administration</h2>
+<p>Dans sa session authentifiée, le porteur du projet a demandé trois priorités à discuter à partir d’un document de préparation du CA. Nexus a affiché une proposition en trois points et les trois passages utilisés. La personne a ouvert ces passages pour les comparer à la réponse.</p>
+<div class="proof"><strong>Ce qui est établi :</strong> une question utile, une génération locale reliée aux reçus techniques, une réponse reçue dans le cockpit et des passages consultables. Le document collectif reste distinct de la proposition personnelle.</div>
+<p>Ce cas donne une base concrète pour améliorer la fidélité documentaire, la reprise après interruption et l’usage par d’autres membres. Il ne mesure pas encore le délai garanti, la charge simultanée ou l’accès à toute la mémoire Drive.</p>
+<a href="https://github.com/lrafaelpeytavin-debug/nexus-os-showcase/blob/main/COCKPIT_DOCUMENTARY_PILOT.md">Lire le cas, sa portée et la prochaine épreuve d’usage</a></section>
+<section id="architecture"><p class="eyebrow">Le rôle de Nexus</p><h2>Organiser le travail autour du modèle</h2>
+<p>Le modèle formule la réponse à partir du contexte reçu. Nexus organise le parcours : qui demande, quels documents sont accessibles, quels passages sont transmis, comment la réponse est conservée et comment revenir à sa source.</p>
+<ol class="flow"><li><strong>Demande et droits</strong><br>Une personne et un espace identifiés.</li><li><strong>Contexte documentaire</strong><br>Une sélection de sources autorisées.</li><li><strong>Génération et références</strong><br>Un modèle et des contrôles situés.</li><li><strong>Relecture et continuité</strong><br>Une proposition, des corrections et une suite humaine.</li></ol>
+<p>Le pilote documentaire utilise un modèle exécuté localement avec Ollama. Le routage vers plusieurs modèles selon la tâche est une évolution à qualifier ; il n’est pas présenté comme déjà actif dans ce cockpit.</p>
+<div class="links"><a href="https://github.com/lrafaelpeytavin-debug/nexus-os-showcase/blob/main/ARCHITECTURE_OVERVIEW.md">Architecture détaillée</a><a href="https://github.com/lrafaelpeytavin-debug/nexus-os-showcase/blob/main/CAPABILITY_AND_EXECUTION_MODEL.md">Capacités et ressources d’exécution</a><a href="https://github.com/lrafaelpeytavin-debug/nexus-os-showcase/blob/main/SECURITY_AND_BOUNDARIES.md">Périmètre public et confidentialité</a></div></section>
+<section id="preuves"><p class="eyebrow">Preuves situées</p><h2>Ce qui a été observé, à quelle échelle</h2>
+<div class="table-wrap"><table><thead><tr><th scope="col">État</th><th scope="col">Résultat</th><th scope="col">Portée</th></tr></thead><tbody>
+<tr><th scope="row">Usage actuel · 5 novembre</th><td>Premier échange documentaire authentifié, réponse visible et trois passages consultés.</td><td>Un cas utile dans le cockpit. Reprise autonome et autres profils à éprouver.</td></tr>
+<tr><th scope="row">Essais historiques · publiés en octobre</th><td>31/31 tests dans une séquence ; 34/34 contrôles dans une autre.</td><td>Scénarios bornés réussis, conservés comme résultats antérieurs. Aucun nouveau benchmark déduit de ces nombres.</td></tr>
+<tr><th scope="row">Travail documentaire historique</th><td>Inventaire de 14 542 fichiers représentant 15,37 Go.</td><td>Échelle d’un corpus traité dans l’atelier ; pas une mesure de vitesse ni la preuve que ce corpus est accessible au cockpit.</td></tr>
+<tr><th scope="row">Recherche-action et transmission</th><td>Dossiers, pédagogie, traces de coopération et dérivations pour différents publics.</td><td>Cas documentés avec leurs résultats, leurs limites et leurs questions ouvertes.</td></tr>
+</tbody></table></div><p><a href="https://github.com/lrafaelpeytavin-debug/nexus-os-showcase/blob/main/PROOF_OF_USE.md">Consulter le registre public des preuves et des limites</a> · <a href="https://github.com/lrafaelpeytavin-debug/nexus-os-showcase/blob/main/RESEARCH_ACTION_CASES.md">Explorer les cas de recherche-action</a></p></section>
+<section id="perspectives"><p class="eyebrow">Prochaines étapes</p><h2>Consolider ce premier parcours, puis l’étendre</h2>
+<div class="grid"><article class="card"><h3>Continuer sans perdre le fil</h3><p>Retrouver l’échange après interruption, vérifier les versions citées et éprouver le parcours avec un autre membre.</p></article><article class="card"><h3>Mieux choisir le contexte et le modèle</h3><p>Comparer la qualité, le temps de réponse et l’effort de correction sur les mêmes tâches ; raccorder progressivement la mémoire de projet autorisée.</p></article><article class="card"><h3>Relier les canaux et les méthodes</h3><p>Réutiliser le même cœur pour Telegram et Discord, puis pour les capacités documentaires et de recherche. Leur préparation ne vaut pas une livraison multicanal.</p></article></div>
+<p>Les pilotes partenaires partent d’un usage défini, d’un périmètre documentaire autorisé et d’un bilan d’utilisation. L’économie de temps, le coût d’exploitation et la maintenance se mesurent dans ce cadre.</p>
+<p><a href="https://github.com/lrafaelpeytavin-debug/nexus-os-showcase/blob/main/SITES_INTEROPERABILITY_AND_UX.md">Trajectoire des interfaces et de l’interopérabilité</a></p></section>
+<section><p class="eyebrow">Un terrain collectif</p><h2>La KLE et Souveraineté en Action</h2>
+<p>Nexus se développe au contact de travaux de recherche-action, de pédagogie et de coopération. Souveraineté en Action s’organise autour de son règlement et du Contrat blanc pédagogique.</p>
+<p><strong>Au 5 novembre 2026 : 447 personnes dans la communauté SA ; 181 personnes avec le rôle « Travail Souverain » après validation du cadre.</strong> Ces deux effectifs sont déclarés par le cofondateur. Ils décrivent le dispositif collectif, sans constituer une mesure d’impact individuel.</p>
+<details><summary>Lire les repères historiques sans confondre les mesures</summary><p>Le bilan du 16 juillet 2026 mentionnait 16 ateliers et 169 participations cumulées. Celui du 9 octobre mentionnait environ 20 rencontres et 180 participations après exclusion des répétitions, avec une méthode encore à consolider. Ces participations aux rencontres ne sont ni les 447 membres de la communauté, ni les 181 personnes portant le rôle actuel.</p></details>
+<p class="links"><a href="https://lakle.fr">La KLE</a><a href="https://sa.lakle.fr">Souveraineté en Action</a><a href="https://enquetesduvivant.lakle.fr">Enquêtes du Vivant</a></p></section>
+<section id="parcours"><p class="eyebrow">Lucas Rafael Benavenuto</p><h2>Un parcours, plusieurs besoins d’accompagnement</h2>
+<p>Fondateur de La KLE et cofondateur de Souveraineté en Action. Ingénierie socio-technique, systèmes IA, formation, facilitation et projets territoriaux : les CV donnent plusieurs entrées dans un même parcours documenté.</p>
+<div class="grid"><article class="card"><h3>Général — architecture socio-technique</h3><p>Relier gouvernance de l’information, IA, recherche-action et coordination de projets.</p><a href="assets/Lucas_Benavenuto_CV_General_2026-11-05.pdf">Lire le CV en PDF <span aria-hidden="true">↗</span></a></article>
+<article class="card"><h3>IA et systèmes agents</h3><p>Concevoir des workflows LLM, leurs contrôles, leurs traces et leurs conditions d’utilisation.</p><a href="assets/Lucas_Benavenuto_CV_IA_LLMOps_2026-11-05.pdf">Lire le CV en PDF <span aria-hidden="true">↗</span></a></article>
+<article class="card"><h3>Facilitation et capitalisation</h3><p>Accompagner les collectifs, organiser le travail commun et transmettre les acquis.</p><a href="assets/Lucas_Benavenuto_CV_Facilitation_2026-11-05.pdf">Lire le CV en PDF <span aria-hidden="true">↗</span></a></article>
+<article class="card"><h3>Recherche-action et évaluation</h3><p>Conduire une enquête, documenter les changements et discuter les résultats avec les acteurs.</p><a href="assets/Lucas_Benavenuto_CV_RechercheAction_Evaluation_2026-11-05.pdf">Lire le CV en PDF <span aria-hidden="true">↗</span></a></article>
+<article class="card"><h3>Territoires et transition écologique</h3><p>Coordonner des partenaires, des terrains écologiques et des projets d’intérêt collectif.</p><a href="assets/Lucas_Benavenuto_CV_Territoires_2026-11-05.pdf">Lire le CV en PDF <span aria-hidden="true">↗</span></a></article>
+<article class="card"><h3>Habitat participatif et projets coopératifs</h3><p>Mobiliser facilitation, pédagogie et expérience associative au service de projets coopératifs.</p><a href="assets/Lucas_Benavenuto_CV_HabitatParticipatif_2026-11-05.pdf">Lire le CV en PDF <span aria-hidden="true">↗</span></a></article></div><p class="muted">Données SA actualisées le 5 novembre 2026. Les résultats techniques et bilans d’ateliers gardent leurs dates et leur périmètre. <a href="https://github.com/lrafaelpeytavin-debug/nexus-os-showcase/blob/main/CV_PORTFOLIO.md">Choix des CV, provenance et historique</a>.</p></section>
+</main><footer><p><strong>Nexus OS — présentation publique et preuves d’usage.</strong> Cette actualisation documentaire n’est pas une nouvelle version du moteur.</p><div class="links"><a href="https://github.com/lrafaelpeytavin-debug/nexus-os-showcase">Dépôt et historique GitHub</a><a href="https://github.com/lrafaelpeytavin-debug/nexus-os-showcase/blob/main/SHOWCASE_MANIFEST.md">Périmètre de cette publication</a><a href="https://github.com/lrafaelpeytavin-debug/nexus-os-showcase/blob/main/NOTICE.md">Notice</a></div></footer></body></html>

@@ -1,5 +1,7 @@
-# Short wording for an application or partner email
+# Présenter Nexus OS à un partenaire
 
-> Pour illustrer mes travaux actuels autour de l’IA, de la gouvernance de l’information et de la mémoire de projet, j’ai préparé un showcase public de Nexus OS. La V0.4 présente l’architecture humain/IA, le routage de capacités, l’articulation entre modèles frontière et exécution locale, quelques preuves d’usage et les limites actuelles du projet, sans exposer le runtime ni les briques techniques privées : https://github.com/lrafaelpeytavin-debug/nexus-os-showcase
+Nexus OS relie les sources d’un projet, les droits des personnes et une assistance IA vérifiable. Un premier parcours documentaire est utilisé dans le cockpit interne de La KLE : question sur un document de préparation du CA, réponse candidate et trois passages consultables.
 
-Use the public showcase for recruiter, partner and funder discovery. Keep the private Nexus technical kit and partner deployment repositories outside public-facing communication.
+Nous proposons d’explorer un pilote sur un usage défini, avec un périmètre documentaire autorisé et un bilan de la qualité, de la reprise et de l’effort de correction. Les extensions de mémoire et les autres canaux suivent des validations distinctes.
+
+[Présentation et preuves](https://lrafaelpeytavin-debug.github.io/nexus-os-showcase/) · [Dossier public et historique](https://github.com/lrafaelpeytavin-debug/nexus-os-showcase) · [CV et parcours](CV_PORTFOLIO.md)

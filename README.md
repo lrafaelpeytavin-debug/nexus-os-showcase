@@ -3,11 +3,19 @@
 Status: `PUBLIC_SAFE_SHOWCASE_V0.4`  
 Date: 2026-10-05  
 Purpose: recruiter / partner / funder discovery  
-Site evidence update: 2026-10-14
+Site evidence update: 2026-11-05
 
 > **Public showcase ≠ open-source release.**
 
 This repository is a **sanitized public showcase** of Nexus OS. It is designed for recruiters, partners and funders who need to understand the architecture, the current evidence and the R&D trajectory without access to the private runtime or deployment packages.
+
+## Un premier parcours documentaire reçu dans le cockpit — 5 novembre 2026
+
+Une question réelle sur un document de préparation du conseil d'administration a produit une réponse candidate visible, accompagnée de trois passages consultables. Le cas relie une interface authentifiée, les documents accessibles au lecteur et une génération locale. Il donne une base concrète pour travailler la continuité, les délais et l'appropriation par d'autres membres.
+
+**[Découvrir le cas d'usage, l'architecture et les prochaines étapes](COCKPIT_DOCUMENTARY_PILOT.md).**
+
+La page distingue ce premier usage des capacités encore en préparation et propose une lecture pour les associations, les partenaires et les personnes qui évaluent le projet.
 
 ## Author and CV — versions du 9 octobre 2026
 

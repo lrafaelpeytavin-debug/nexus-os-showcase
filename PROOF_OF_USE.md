@@ -1,6 +1,6 @@
 # Preuves d’usage et maturité de Nexus OS
 
-État public au **5 novembre 2026**. Une preuve est rattachée à un usage et à une date ; les résultats historiques restent conservés sans être requalifiés comme essais actuels.
+Première preuve publique le **5 novembre 2026**, avec des observations datées ci-dessous. Une preuve est rattachée à un usage et à une date ; les résultats historiques restent conservés sans être requalifiés comme essais actuels.
 
 ## Premier parcours documentaire du cockpit
 
@@ -20,6 +20,16 @@ Après cet échange, trois documents de travail supplémentaires ont été réel
 | Mémoire | Contexte documentaire offert par le cockpit | Drive étendu et admission des nouvelles sources |
 | Canaux | Cockpit utilisé | Nouvelle preuve utile Telegram/Discord attendue |
 | Modèles | Ressource locale employée pour ce cas | Routage adaptatif par tâche à intégrer et mesurer |
+
+## Relecture d’une réponse documentaire du cockpit — 22 novembre 2026
+
+Dans une session authentifiée du cockpit, une question sur un document de travail a reçu une réponse candidate accompagnée de trois citations. La relecture a comparé les extraits affichés au texte de la version ouverte.
+
+- Deux extraits étayent une révision annoncée et une question encore en discussion. Il faut relire les formulations de la source avant d’attribuer une décision ou un calendrier.
+- La troisième citation est un titre de section. Le passage qui étaye le point se trouve dans le corps du document. L’affichage montrait aussi deux extraits coupés en cours de mot.
+- La réponse présente une future mise à jour comme proche. Le document de travail mentionne une intention de révision sans date confirmée.
+
+L’essai atteste qu’un utilisateur a pu questionner un document de son espace et examiner les citations proposées. Il couvre un seul échange. Le compte rendu, l’historique et la capture restent dans leur espace privé.
 
 ## Essais instrumentés historiques
 

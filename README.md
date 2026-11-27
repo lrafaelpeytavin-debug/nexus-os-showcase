@@ -1,6 +1,6 @@
 # Nexus OS
 
-**Un assistant documentaire éprouvé dans le cockpit interne de La KLE, et une architecture pour relier sources, travail humain et IA.** Présentation actualisée le **5 novembre 2026**.
+**Un assistant documentaire éprouvé dans le cockpit interne de La KLE, et une architecture pour relier sources, travail humain et IA.** Présentation actualisée le **27 novembre 2026**.
 
 ## Le parcours démontré
 
@@ -9,6 +9,10 @@ Le 5 novembre, une personne authentifiée a posé une question utile sur un docu
 Ce premier usage documentaire prolonge la conversation générale déjà observée. Le contrôle intégral des versions sources, la reprise après interruption, d’autres profils et la charge simultanée restent à éprouver. L’accès documentaire du cockpit ne vaut pas accès à tout le Drive.
 
 → [Présentation web](https://lrafaelpeytavin-debug.github.io/nexus-os-showcase/) · [Cas documentaire](COCKPIT_DOCUMENTARY_PILOT.md) · [Preuves et maturité](PROOF_OF_USE.md)
+
+Le 22 novembre, une nouvelle réponse documentaire et ses citations ont été examinées. La relecture a identifié deux extraits pertinents, une référence à corriger et une temporalité à préciser. [Détail de cette épreuve](PROOF_OF_USE.md#relecture-dune-réponse-documentaire-du-cockpit--22-novembre-2026).
+
+Deux autres situations prolongent la démarche : restitution en atelier des Enquêtes du Vivant, avec Qwen local selon le facilitateur, et conception d’un [parcours Copilot et agentique pour des professionnels de l’assurance](https://atelier-copilot-3a.vercel.app/) avec relais Codex CLI sur données fictives. Ces terrains ont chacun leurs critères et leur environnement d’exécution.
 
 ## Comprendre le fonctionnement
 
@@ -39,10 +43,12 @@ Lucas Rafael Benavenuto est fondateur de La KLE et cofondateur de Souveraineté 
 
 Le règlement et le Contrat blanc pédagogique constituent le cadre de SA. [La KLE](https://lakle.fr), [Souveraineté en Action](https://sa.lakle.fr) et [Enquêtes du Vivant](https://enquetesduvivant.lakle.fr) conservent chacun leur fonction.
 
-→ [CV et entrées de parcours](CV_PORTFOLIO.md) · [CV général PDF](assets/Lucas_Benavenuto_CV_General_2026-11-05.pdf)
+Intervenant en enseignement supérieur (MBway, IPAC), formation professionnelle en assurance (VIAgence / 3A Assurances) et management en CFA (École Française Supérieure via Bahy). Le portefeuille propose sept profils complémentaires.
+
+→ [CV et entrées de parcours](CV_PORTFOLIO.md) · [CV général PDF](assets/Lucas_Benavenuto_CV_General_2026-11-27.pdf)
 
 ## Cette publication
 
-Le showcase public expose des usages, une architecture et des limites. Il ne distribue ni moteur privé, ni corpus, ni capture de session, ni contrats permettant de reconstruire les mécanismes d’autorité. L’actualisation de présentation du 5 novembre réharmonise le cas récent, les preuves antérieures et les CV ; elle ne modifie aucun runtime.
+Le showcase public expose des usages, une architecture et des limites. Il ne distribue ni moteur privé, ni corpus, ni capture de session, ni contrats permettant de reconstruire les mécanismes d’autorité. L’actualisation du 27 novembre présente les nouveaux terrains et les sept CV ; les sources techniques et les états antérieurs restent conservés.
 
-[Manifeste et filiation](SHOWCASE_MANIFEST.md) · [Contrôle de cette actualisation](PUBLICATION_QA_20261105.md) · [Notice](NOTICE.md) · [Copyright](COPYRIGHT.md)
+[Manifeste et filiation](SHOWCASE_MANIFEST.md) · [Contrôle du portefeuille du 27 novembre](PUBLICATION_QA_20261127.md) · [Contrôle historique du 5 novembre](PUBLICATION_QA_20261105.md) · [Notice](NOTICE.md) · [Copyright](COPYRIGHT.md)

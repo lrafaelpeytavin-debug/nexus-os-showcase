@@ -69,6 +69,14 @@ Les interfaces [La KLE](https://lakle.fr), [SA](https://sa.lakle.fr) et [Enquêt
 
 [Le cas technique des sites](SITES_INTEROPERABILITY_AND_UX.md) décrit les fonctions examinées, les repères de version et les limites de validation. L’existence d’une fonction de retour ne suffit pas à établir qu’un cycle complet de révision a été effectué à partir de ses données.
 
+## Cas E — Enquête et restitution en cours d’atelier (22 novembre 2026)
+
+Une séance des Enquêtes du Vivant a mis en discussion les conditions de la parole, de la décision et de la continuité du travail collectif. Une restitution intermédiaire des premières contributions a été présentée. Le facilitateur rapporte avoir utilisé Qwen local via le cockpit Nexus pour appuyer cette restitution. Les retours ont fait apparaître des pistes de clarification des consignes et de navigation, à éprouver dans une autre séance. Les traces de participants et la sortie locale restent protégées. [Portée de la preuve](PROOF_OF_USE.md#restitution-denquête-en-atelier--22-novembre-2026).
+
+## Cas F — Une formation professionnelle à partir de dossiers métiers fictifs (novembre–décembre 2026)
+
+Le [parcours Copilot 3A](https://atelier-copilot-3a.vercel.app/) permet de travailler sur le suivi de dossiers, la vérification de pièces et la préparation de réponses. La spécialisation associe une démonstration agentique avec Codex CLI à un exercice de construction de méthode et de contrôle humain. Le travail de conception s’appuie sur les outils réellement accessibles aux participants. Le corpus est fictif. La prochaine évaluation distingue la recette technique, la capacité du formateur à conduire la tâche et la reprise par les participants.
+
 ## Comment lire les preuves
 
 | Niveau | Ce qu’il permet d’affirmer | Ce qui reste à établir |

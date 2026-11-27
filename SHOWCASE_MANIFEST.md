@@ -1,5 +1,10 @@
 # Manifeste de publication
 
+## Actualisation du parcours et des preuves — 27 novembre 2026
+
+Sept CV issus des sources Word existantes, dont un profil formation et ingénierie pédagogique, sont actualisés. Les PDF gardent portrait, charte graphique, deux pages et les destinations des hyperliens des sources. Le portefeuille, README et HTML présentent les expériences professionnelles récentes. Le registre distingue les recettes sur corpus fictif, le cas documentaire et la restitution d’atelier rapportée. Les sources privées, données de participants, échanges commerciaux et code d’exécution restent hors du showcase. Aucune nouvelle version de runtime ni validation causale n’est déduite. [Contrôles](PUBLICATION_QA_20261127.md) · [Portefeuille](CV_PORTFOLIO.md)
+
+
 ## Complément au cas documentaire du 5 novembre 2026
 
 Après la première réponse documentaire observée, trois documents de travail ont été réellement importés dans le même espace du CA. Les versions et six retours antérieurs sont préservés. Un contrôle du sélecteur et du validateur sur la base courante, en lecture seule, vérifie la sélection et la préparation du contexte pour huit membres autorisés sur les trois titres ; l'accès sans authentification est refusé. Cette preuve enrichit le cas existant et son registre, sans nouvelle carte sur la page d'accueil ni modification des CV.

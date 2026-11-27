@@ -31,6 +31,14 @@ Dans une session authentifiée du cockpit, une question sur un document de trava
 
 L’essai atteste qu’un utilisateur a pu questionner un document de son espace et examiner les citations proposées. Il couvre un seul échange. Le compte rendu, l’historique et la capture restent dans leur espace privé.
 
+## Formation professionnelle et démonstrateur agentique — novembre–décembre 2026
+
+Un parcours de formation à Copilot a été conçu pour les usages professionnels de l’assurance. La [plateforme](https://atelier-copilot-3a.vercel.app/) rassemble des situations fictives, des modèles métiers et des exercices de contrôle des réponses. Le démonstrateur de spécialisation associe un corpus de 270 mails fictifs et 55 PDF distincts à un relais local vers Codex CLI. Une recette documentée suit un dossier de 20 à 21 mails et de 4 à 5 PDF : la nouvelle pièce passe de « promise » à « reçue, à examiner ». Le formateur reste responsable de la validation des résultats. Cette recette renseigne la conception du dispositif et le traitement du cas fictif ; l’usage autonome des apprenants et les gains métiers sont des questions d’évaluation. Le démonstrateur est distinct du runtime Nexus.
+
+## Restitution d’enquête en atelier — 22 novembre 2026
+
+Une première lecture des contributions des Enquêtes du Vivant a été partagée pendant un atelier collectif. Le support intermédiaire de séance est attesté. Le facilitateur rapporte qu’une sortie obtenue avec Qwen local dans le cockpit Nexus a soutenu ce travail. Le reçu technique correspondant, la version exacte du modèle et le lien entre la sortie brute et le support projeté restent à rapprocher. Le terrain permet d’étudier le passage des contributions à une restitution discutable par les participants, puis les possibilités de reprise. Les contributions et reçus privés demeurent dans leur résidence.
+
 ## Essais instrumentés historiques
 
 Deux séquences déjà présentes dans le showcase et les CV en octobre 2026 ont atteint **31/31 tests CTX-1A.1** et **34/34 contrôles de harness** sur leurs scénarios définis. Elles sont conservées comme preuves bornées. Elles ne constituent ni un benchmark nouveau au 5 novembre, ni une preuve de disponibilité du cockpit actuel, ni une comparaison gagnée contre un autre système.

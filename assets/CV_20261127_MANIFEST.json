@@ -1,0 +1,37 @@
+{
+  "General": {
+    "pages": 2,
+    "links": 13,
+    "pdfSHA256": "63ab3c2bd368070529f49caa4e1054712e0f05dc9f7dacbcfdca74b559df42e7"
+  },
+  "IA_LLMOps": {
+    "pages": 2,
+    "links": 7,
+    "pdfSHA256": "0261e1b69204edb4626e339a5d7b983b1193c04b178b5e07cd3c1c0c8ae4676e"
+  },
+  "Formation_Facilitation": {
+    "pages": 2,
+    "links": 20,
+    "pdfSHA256": "3a4178dd7b086cfa380cd9627558366e27d83eca67da15b1e5deb971e35fbbc1"
+  },
+  "Facilitation": {
+    "pages": 2,
+    "links": 20,
+    "pdfSHA256": "1cc0b8abd4ae3894db8910d43a68d4168fa21dcaa15398e294f77ad3363aa40a"
+  },
+  "RechercheAction_Evaluation": {
+    "pages": 2,
+    "links": 6,
+    "pdfSHA256": "eef051df61f22db0db52fcff9a93ac721455c1bc68fbbd6c2c21b7114f0e6e45"
+  },
+  "Territoires": {
+    "pages": 2,
+    "links": 20,
+    "pdfSHA256": "57745a4be69ff3f1b8b2e2bafe696b77523a5d6dd7bdb8dbab3df747ba774526"
+  },
+  "HabitatParticipatif": {
+    "pages": 2,
+    "links": 25,
+    "pdfSHA256": "3f14f5e183f26f5677e5964e4ce876607128f585071fe60800ec4b851097cab0"
+  }
+}
